@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>
+    Technical Blog | Arrays &amp; Hashes - &#39;Tine Zekis
+    
+  </title>
+
+  <meta name="description" content="In all programming languages, we can assign values to variables. For instance, if I want to create a sting that I will use multiple times and/or manipulate i...">
+
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="/assets/vendor/bootstrap/css/bootstrap.min.css">
+
+  <link rel="stylesheet" href="/assets/vendor/fontawesome-free/css/all.min.css">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/blog/technical/2015/04/25/t3-arrays-hashes.html">
+  <link rel="alternate" type="application/rss+xml" title="&#39;Tine Zekis" href="/feed.xml">
+
+</head>
+
+
+<body>
+
+  <!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+  <div class="container">
+    <a class="navbar-brand" href="/">&#39;Tine Zekis</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      Menu
+      <i class="fa fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/blog">Blog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/contact">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+  <!-- Page Header -->
+
+  <header class="masthead">
+    
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+            <h1>Technical Blog | Arrays & Hashes</h1>
+            
+            <span class="meta">Posted by
+              <a href="#">'Tine Zekis</a>
+              on April 25, 2015 &middot; <span class="reading-time" title="Estimated read time">
+  
+   6 mins  read </span>
+
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+
+        <h1>Keeping Track of It All</h1>
+        <h2>Arrays, Hashes, and When to Use Them</h2>
+
+        <p>
+  In all programming languages, we can assign values to variables. For instance, if I want to create a sting that I will use multiple times and/or manipulate in some way, I will want to name it. In Ruby, we assign variables by listing the name followed by an equal sign and the assigned value. For example, <code>greeting = 'Hello, loyal blog readers!'</code> would tell the program that the variable <code>greeting</code> points to the string <code>'Hello, loyal blog readers!'</code> So any time I wanted to use the string or call some method on it, I can use <code>greeting</code> as a sort of nickname. We can also assign other types of values like integers or floats (numbers with a decimal point). For instance, <code>example_int = -47</code> assigns the integer value -47 to the variable <code>example_int</code>. Now, if I call the absolute value method thusly, <code>example_int.abs</code>, the return will be the absolute value of the variable (47).
+</p>
+<p>
+  So we have a way to store values into our variables. But what if we have a lot of variables we need to keep track of. For instance, what if I wanted to store a list of responses to a single question by many respondents, or an entire grocery list? I might not want to create and assign variables for each of these items, as this could become quite cumbersome (<code>response1 = 3</code>, <code>response2 = 7</code>, ..., <code>response 36 = 9</code>). This is where we might choose to use something called an <b>array</b>. Arrays store a list of variables into a series of slots, or indices. So I could create just one array for my entire list of responses: <code>responses = [3, 7,..., 9]</code>. Then, I can reference each item within the list based on its index (slot) in the array. But here's where things get tricky: we actually begin counting from index 0. Thus, <code>responses[0]</code> refers to the first index and returns a value of 3. In order to get our second and 36th values, we would need to call <code>responses[1]</code> and <code>responses[35]</code>, respectively. If our list has 36 items, then the 37th index (<code>responses[36]</code>) would return the <code>nil</code> value, or "nothing". There can even be indices within a list that return the <code>nil</code> value. In order to understand this better, let's talk about another way we can assign values to an array.
+</p>
+<p>
+  Rather than listing all values at once, we can also assign values to an array individually by index, or slot position. For instance, I can create an empty array like this: <code>chicago_teams[]</code> or <code>chicago_teams = Array.new</code> (please note that "Array" gets capitalized in this second option). Then, I can assign individual values thusly:<br />
+  <code>chicago_teams[0] = 'Bulls'</code><br />
+  <code>chicago_teams[1] = 'White Sox'</code><br />
+  <code>chicago_teams[3] = 'Blackhawks'</code><br />
+  <code>puts chicago_teams</code><br />
+  Printing out the array would produce the following:<br />
+  <code>Bulls</code><br />
+  <code>White Sox</code><br />
+  <code>nil</code><br />
+  <code>Blackhawks</code><br />
+  The third index (<code>chicago_teams[2]</code>) has not been assigned and thus contains the <code>nil</code> value.
+</p>
+<p>
+  Hopefully by now, we're getting used to referring to items in an array by their index numbers. But what if we don't want to reference our items this way? For example, what if we had a list of all basketball teams in the NBA? Would we really want to remember which index number went with each team? Wouldn't it be easier to reference those teams by city instead? Well, fortunately, we have a tool for that as well: a <b>hash</b>. A hash organizes information in key-value pairs. So in this case, we might reference the value <code>'Bulls'</code> with the key <code>chicago</code> and <code>'Bucks'</code> with the key <code>milwaukee</code>. We could use any of these formats to set up the hash:<br />
+  <code>nba_teams = {'chicago', 'Bulls', 'milwauke', 'Bucks'}</code><br />
+  <code>nba_teams = { ['chicago', 'Bulls'], ['milwaukee', 'Bucks'] }</code><br />
+  <code>nba_teams = {'chicago' =&gt; 'Bulls', 'milwaukee' =&gt; 'Bucks'}</code><br />
+  Or, just like with the array, we can create an empty hash and then assign key-value pairs later:<br />
+  <code>nba_teams{}</code> or <code>nba_teams = Hash.new</code> (notice that "Hash" also gets capitalized in this situation)<br />
+  <code>nba_teams['chicago'] = 'Bulls'</code><br />
+  <code>nba_teams['milwaukee'] = 'Bucks'</code><br />
+  No matter how we created and assigned the hash, we can now reference the values by their keys. So <code>nba_teams['chicago']</code> now points to the value of string <code>'Bulls'</code>.
+</p>
+<p>
+  So we can see that hashes and arrays have different properties that make them useful for different situations. Arrays help us to keep track of a list of values that have a specific order. We can use array commands to rearrange this order, sort the items in the list, reference items by index number, and many other tasks. All the while, the array keeps track of where each item is stored. Hashes do not maintain information in a particular order. Instead, values are stored and referenced by their keys. Perhaps we want to keep track of Sally and Joe's respective responses to a question, instead of respondents 1 and 2. In this case, a hash might be a more useful way to store this information. In order to determine whether you need an array or a hash, it will be best to consider what you need to do with this information, and how it can most conveniently be referenced when needed.
+</p>
+<p>
+  I hope this brief introduction has given you an idea of how these two objects differ and when you might need either one. Stay tuned for more of my coding discoveries as the journey continues!
+</p>
+
+
+        <hr>
+
+        <div class="clearfix">
+
+          
+          <a class="btn btn-primary float-left" href="/blog/technical/2015/04/18/t2-css-design.html" data-toggle="tooltip" data-placement="top" title="Technical Blog | I Need Space!">&larr; Previous<span class="d-none d-md-inline">
+              Post</span></a>
+          
+          
+          <a class="btn btn-primary float-right" href="/blog/cultural/2015/04/26/c3-thinking-style.html" data-toggle="tooltip" data-placement="top" title="Cultural Blog | Thinking Style">Next<span class="d-none d-md-inline">
+              Post</span> &rarr;</a>
+          
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Footer -->
+
+<hr>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <ul class="list-inline text-center">
+          
+          <li class="list-inline-item">
+            <a href="mailto:tinezekis@gmail.com">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+          
+          <li class="list-inline-item">
+            <a href="https://twitter.com/tinezekis">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://github.com/tinezekis">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="copyright text-muted">Copyright &copy;  2019</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="/assets/vendor/jquery/jquery.min.js"></script>
+<script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/vendor/startbootstrap-clean-blog/js/clean-blog.min.js"></script>
+
+<script src="/assets/scripts.js"></script>
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
+
+
+
+</body>
+
+</html>
