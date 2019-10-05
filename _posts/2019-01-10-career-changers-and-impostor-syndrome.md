@@ -17,7 +17,7 @@ categories: blog
 <p>
   My name is Christine Zekis, but I go by ‘Tine Zekis…which also happens to be my <a target="blank" href="https://twitter.com/tinezekis">Twitter handle</a>, for those of you who would like to follow me after you read this. My pronouns are she/her/hers. And as you may have correctly guessed, I am a career changer. In my former life, I was a high school math teacher.
 </p>
-<img src="/imgs/profile-pic.jpg">
+<img width="70%" src="/imgs/profile-pic.jpg">
 <p>
   I started coding about 4 years ago, and I’m currently working as a mid-level software engineer at an AdTech firm called <a target="blank" href="https://www.centro.net/">Centro</a> (cough..cough…<a target="blank" href="https://www.centro.net/about/careers/">we’re hiring!</a>). So, it wasn’t too long ago that I was in the position of looking for my first dev job. And one of the things I remember most vividly from that experience is:
 </p>
@@ -28,7 +28,7 @@ categories: blog
 <p>
   I say this for a variety of reasons. First, it’s tough to be new, especially if you’ve been somewhere where you were an expert. There are going to be times when you feel like you don’t belong in tech. Maybe some of your colleagues have been coding since high school, and you’ve only been coding for six months!
 </p>
-<img src="/imgs/worried-face.jpg">
+<img width="40%" src="/imgs/worried-face.jpg">
 <p>
   These are all legit concerns. But they don’t tell the whole story. So I want to talk about one strategy you can use when you feel Imposter Syndrome sneaking up on you.
 </p>
@@ -39,7 +39,7 @@ categories: blog
 <p>
   So we’re going to work on ditching the deficit mindset. Let’s stop thinking about what you haven’t done…yet. You bring a wealth of experience no one else on your team has. So think about what your unique talents are. What transferable skills have you honed in your previous experiences? These are the things that will build your confidence, and help you start contributing right away to your team. For example, when I was looking for my first dev job, I thought about what skills I had honed as a math teacher.
 </p>
-<img src="/imgs/smiling-office-worker.jpg">
+<img width="60%" src="/imgs/smiling-office-worker.jpg">
 <p>
   For instance, I can get up in front of a room full of people and give a <a target="blank" href="https://devtogether.co/blog/jan-lightning-talks-recap#tine-zekis">presentation</a>. I also bring a passion for social justice, which translates well to working in diversity and inclusion efforts in tech. But probably the most important skill I bring is my ability to teach. So the guy next to me has been coding since high school. Well, I’ve been tutoring math since high school. I can take a concept that most people find scary or intimidating — like deriving the quadratic formula or the limitations of a technology my team is considering — and I can explain it at the level of whomever I’m talking to. Not every engineer can do that…but every good dev team sure could use someone who can. In the interview for my first dev job, I told my future boss that I’m a developer who speaks human.
 </p>
@@ -47,7 +47,7 @@ categories: blog
 <p>
   Maybe you’ve worked in sales, and your new dev team is building a tool for the sales team at your company. My <i>goodness</i>, who better to have in those meetings than you?! You can help your team to understand the needs of your users, since you’re familiar with the day-to-day of a sales team. And you can help explain the technical stuff in a way your colleagues across the table will understand.
 </p>
-<img src="/imgs/business-meeting.jpg">
+<img width="80%" src="/imgs/business-meeting.jpg">
 <p>
   Okay, so the sales example is awfully specific, and probably doesn’t apply directly to most of you, dear readers. So I’d like you all to take a moment (whether you’re a career changer or not), and think about what specific skills you bring to the table. Take some time to think about your transferable skills. Seriously, do it right now. I’ll give you a moment.
 </p>
@@ -64,7 +64,7 @@ categories: blog
 <p>
   Awesome dev teams, who know what they’re doing, aren’t just looking for a good fit. They’re looking for a good add. They want someone who brings something to the table that they don’t already have.
 </p>
-<img src="/imgs/diverse-business-colleagues.jpg">
+<img width="80%" src="/imgs/diverse-business-colleagues.jpg">
 <p>
   So walk into your interviews knowing that’s you.
 </p>
@@ -77,11 +77,11 @@ categories: blog
 <p>
   If you’re worried this won’t come naturally, I find it’s best to take it at a bit of a strut.
 </p>
-<img src="/imgs/model-strut.gif">
+<img width="70%" src="/imgs/model-strut.gif">
 <p style="text-align: center;">
   *                    *                    *
 </p>
 <p>
   If you want to watch the video, check it out below. And if you’d like, you can follow along with my slides <a target="blank" href="https://speakerdeck.com/tinezekis/career-changers-and-impostor-syndrome-leveraging-your-unique-strengths">here</a>.
 </p>
-<iframe width="700" height="400" src="https://www.youtube.com/embed/8o2tt9dt0Lc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="250" src="https://www.youtube.com/embed/8o2tt9dt0Lc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
