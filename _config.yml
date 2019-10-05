@@ -29,6 +29,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tinezekis
 github_username:  tinezekis
 
+# Add your google-analytics ID here to activate google analytics
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
 # Build settings
 theme: jekyll-theme-clean-blog
 paginate:           5
