@@ -18,21 +18,31 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Zekis Development
+title: "'Tine Zekis"
 email: tinezekis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  'Tine Zekis (she/her) is a software engineer, speaker, and advocate for
+  Diversity & Inclusion in Tech. This site contains a collection of content
+  produced by 'Tine. Find her blogs, slides, videos, and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tinezekis
 github_username:  tinezekis
 
 # Build settings
-theme: minima
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "'Tine Zekis"
+      categories: blog
 
 # Exclude from processing.
 # The following items will not be processed, by default.
