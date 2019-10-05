@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Diversity & Inclusion in Tech. This site contains a collection of content
   produced by 'Tine. Find her blogs, slides, videos, and more.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tinezekis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tinezekis
 github_username:  tinezekis
 
@@ -34,6 +34,7 @@ github_username:  tinezekis
 
 # Build settings
 theme: jekyll-theme-clean-blog
+
 paginate:           5
 paginate_path:      "/blog/page:num/"
 plugins:
