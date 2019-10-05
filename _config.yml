@@ -31,8 +31,12 @@ github_username:  tinezekis
 
 # Build settings
 theme: jekyll-theme-clean-blog
+paginate:           5
+paginate_path:      "/blog/page:num/"
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
 defaults:
   -
