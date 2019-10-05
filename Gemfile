@@ -5,6 +5,8 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
+gem 'github-pages', '~> 200'
+
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # gem "jekyll", "~> 4.0.0"
