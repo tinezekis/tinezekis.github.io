@@ -7,7 +7,15 @@ permalink: /contact/
 form: true
 ---
 
-<p>
+<h3>Coming Soon!</h3>
+
+<p>This page is under construction. Please come back later if you would like to contact 'Tine</p>
+
+<!-- I need a workaround to get the contact page working on Github Pages.
+Uncomment this page after following the instructions for the workaround
+here: https://github.com/y7kim/agency-jekyll-theme/issues/14 -->
+
+<!-- <p>
   Background photo by <a target="_blank" href="https://unsplash.com/@milverton?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Milverton</a> on <a target="_blank" href="https://unsplash.com/s/photos/purple-sunset?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
 </p>
 
@@ -46,4 +54,4 @@ form: true
   <div class="form-group">
     <button type="submit" class="btn btn-primary" id="sendMessageButton">Send</button>
   </div>
-</form>
+</form> -->
