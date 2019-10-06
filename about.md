@@ -2,7 +2,6 @@
 layout: page
 title: About 'Tine
 edit_date: 2019-10-04
-permalink: /about/
 background: '/imgs/tine-headshot.jpg'
 ---
 
