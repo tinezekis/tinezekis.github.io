@@ -1,8 +1,8 @@
 {
-    "title": "'Tine Zekis",
-    "name": "tinezekis.github.io",
+    "title": "Clean Blog Jekyll",
+    "name": "startbootstrap-clean-blog-jekyll",
     "version": "4.0.9",
-    "description": "",
+    "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
     "keywords": [
         "css",
         "sass",
@@ -11,16 +11,19 @@
         "theme",
         "template"
     ],
-    "main": "gulpfile.js",
-    "homepage": "https://github.com/tinezekis/tinezekis.github.io#readme",
+    "homepage": "https://startbootstrap.com/template-overviews/clean-blog",
     "bugs": {
-        "url": "https://github.com/tinezekis/tinezekis.github.io/issues"
+        "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/issues",
+        "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "'Tine Zekis",
+    "author": "Start Bootstrap",
+    "contributors": [
+        "David Miller (http://davidmiller.io/)"
+    ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/tinezekis/tinezekis.github.io.git"
+        "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll.git"
     },
     "dependencies": {
         "bootstrap": "4.3.1",

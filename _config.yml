@@ -1,73 +1,28 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: "'Tine Zekis"
-email: tinezekis@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+title:              "'Tine Zekis"
+email:              "tinezekis@gmail.com"
+description: >- # this means to ignore newlines until "author:"
   'Tine Zekis (she/her) is a software engineer, speaker, and advocate for
-  Diversity & Inclusion in Tech. This site contains a collection of content
-  produced by 'Tine. Find her blogs, slides, videos, and more.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tinezekis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tinezekis
-github_username:  tinezekis
+  Diversity, Equity, and Inclusion in Tech. This site contains a collection
+  of content produced by 'Tine. Find her blogs, slides, videos, and more.
+author:             "'Tine Zekis"
+baseurl:            "" # the subpath of your site, e.g. /blog
+url:                "https://tinezekis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Social Profiles
+twitter_username:   "tinezekis"
+github_username:    "tinezekis"
+linkedin_username:  "tinezekis"
+# facebook_username:  StartBootstrap
 
 # Add your google-analytics ID here to activate google analytics
+# Set up google analytics later
 # google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
-theme: jekyll-theme-clean-blog
-
+markdown:           kramdown
 paginate:           5
-paginate_path:      "/blog/page:num/"
+paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "'Tine Zekis"
-      categories: blog
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
