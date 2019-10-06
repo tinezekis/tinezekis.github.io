@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Career Changers & Impostor Syndrome"
-post_title: "Career Changers & Impostor Syndrome"
-post_subtitle: "Leveraging Your Unique Strengths"
+title: Career Changers & Impostor Syndrome
+post_title: Career Changers & Impostor Syndrome
+post_subtitle: Leveraging Your Unique Strengths
 date: 2019-01-10
 categories: blog
+background: /imgs/diverse-business-colleagues.jpg
 ---
 
 <p>
