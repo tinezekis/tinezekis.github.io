@@ -5,6 +5,7 @@ post_title: "Acting as Individuals and as a Group"
 post_subtitle: "Instance Methods vs. Class Methods"
 date: 2015-05-17
 categories: blog technical
+background: /imgs/car-class-4.png
 ---
 
 <p>

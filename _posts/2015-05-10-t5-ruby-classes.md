@@ -5,6 +5,7 @@ post_title: "Classy Crash Course"
 post_subtitle: "Ruby Classes as Real-World Objects"
 date: 2015-05-10
 categories: blog technical
+background: /imgs/hook-class-6.png
 ---
 
 <p>
