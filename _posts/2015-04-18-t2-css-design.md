@@ -1,13 +1,14 @@
 ---
 layout: post
 custom_css: t2-css-design
-title: "Technical Blog | I Need Space!"
-post_title: "I Need Space!"
-post_subtitle: "The Differences between Margin, Border, and Padding"
+title: "I Need Space!"
+subtitle: "The Differences between Margin, Border, and Padding"
 date: 2015-04-18
 categories: blog technical
 background: /imgs/margin-border-padding-diagram.png
 ---
+
+<h4>Assignment: Technical Blog | I Need Space!</h4>
 
 <link rel="stylesheet" href="../../../../../assets/t2-css-design.css">
 

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Technical Blog | Enumerable Methods"
-post_title: "Enumerable#map"
-post_subtitle: "Taking It One Element at a Time"
+title: "Enumerable#map"
+subtitle: "Taking It One Element at a Time"
 date: 2015-05-03
 categories: blog technical
 ---
+
+<h4>Assignment: Technical Blog | Enumerable Methods</h4>
 
 <p>
   In Ruby, <code>Enumerable</code> is a module that allows us to access each element out of a collection, one at a time. It is used as a mix-in for various classes that contain multiple elements, such as <code>Array</code>s, <code>Hash</code>es, and <code>Range</code>s. If we think of enumerable as an adjective, then <code>Enumerator</code> is the noun form. It is a method object (a noun that performs a verb), a tool we can use to <i>enumerate</i> an action, one at a time, on every element of another object. For now, we will focus on one such enumerator: the <code>map</code> method.

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Cultural Blog | Thinking Style"
-post_title: "How Should I DBC?"
-post_subtitle: "Musings of an Abstract Sequential Thinker"
+title: "How Should I DBC?"
+subtitle: "Musings of an Abstract Sequential Thinker"
 date: 2015-04-26
 categories: blog cultural
 ---
+
+<h4>Cultural Blog | Thinking Style</h4>
 
 <p>
   As many of you know, this blog serves partially to document my short time at Dev Bootcamp (DBC). In just three short weeks of "Phase 0", I've already learned a ton, including how to build this website! I can't begin to imagine how much I will learn in the remaining six weeks of Phase 0, let alone the three weeks each of Phases 1, 2, and 3, which will be full-time, on-site, and totally intensive. This all sounds like a great reason to be completely intimidated. But one thing I really like about DBC is their emphasis on self-reflection and meta-learning. This is why they required me to write a post reflecting on my thinking style and how I can leverage these strengths to strategize my approach to this intensive learning experience.

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Technical Blog | Object-Oriented Programming"
-post_title: "Acting as Individuals and as a Group"
-post_subtitle: "Instance Methods vs. Class Methods"
+title: "Acting as Individuals and as a Group"
+subtitle: "Instance Methods vs. Class Methods"
 date: 2015-05-17
 categories: blog technical
 background: /imgs/car-class-4.png
 ---
+
+<h4>Assignment: Technical Blog | Object-Oriented Programming</h4>
 
 <p>
   When we create a class in Ruby, we are able to create several instances of that class (objects). As we have discussed in <a target="_blank" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}">a previous post</a>, objects, or instances of a class, are the nouns of an Object-Oriented Programming (OOP) language. And if the objects are the nouns, then methods are the verbs. Methods, are the focus of this post: we will discuss the difference between instance methods and class methods.

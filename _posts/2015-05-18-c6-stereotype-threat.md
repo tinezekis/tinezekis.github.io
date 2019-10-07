@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Cultural Blog | Stereotype Threat"
-post_title: "Confirming the Stereotypes"
-post_subtitle: "Diary of a Loud, Angry, Black Woman"
+title: "Confirming the Stereotypes"
+subtitle: "Diary of a Loud, Angry, Black Woman"
 date: 2015-05-18
 categories: blog cultural
 ---
+
+<h4>Assignment: Cultural Blog | Stereotype Threat</h4>
 
 I remember I was in middle school when my father explained to me that, "Some stereotypes are just true." The example he gave was that Nigerians are loud. When I consider my Nigerian relatives, this generally holds true. "We are a lout people," he said. And my goodness, we get even louder when we're together! Obviously, I have met some very quiet Nigerians in my life. But this stereotype, this understanding, that Nigerians are loud has stuck with me my whole life. To this day, I often attempt to censor myself by stifling my laughter; I feel self-conscious laughing aloud in public. I know that the typical American is not thinking about loud Nigerians on a day-to-day basis (nor do people usually know that I am Nigerian without some instruction from me on the matter). But I know that African Americans are also considered to be "a loud people". And I feel weird confirming this stereotype when I throw my head back and cackle loudly in public, though it is in my nature to do so.
 

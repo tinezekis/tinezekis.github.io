@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Technical Blog | Ruby Classes"
-post_title: "Classy Crash Course"
-post_subtitle: "Ruby Classes as Real-World Objects"
+title: "Classy Crash Course"
+subtitle: "Ruby Classes as Real-World Objects"
 date: 2015-05-10
 categories: blog technical
 background: /imgs/hook-class-6.png
 ---
+
+<h4>Assignment: Technical Blog | Ruby Classes</h4>
 
 <p>
    Greetings, dear readers. As many of you know, I'm learning Ruby, one of many programming languages. Ruby is an object-oriented language, which doesn't mean much if you don't know what an object is in terms of programming. So let's talk about it. An <b>object</b> is just a thing. Any thing. Objects are the nouns of a programming language. A <b>method</b> is what objects do; methods are the verbs. Just like a person walks or a bird flies, an object <i>does</i> a method. It is important to note that not all objects can perform all methods. For instance, a person cannot fly (at least not without the assistance of some other object), but a bird can. So how does a program keep track of which objects can perform which methods? Enter: the class.

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Cultural Blog | Questions"
-post_title: "The Most Important Question"
-post_subtitle: "How Do I Ask a Good Question?"
+title: "The Most Important Question"
+subtitle: "How Do I Ask a Good Question?"
 date: 2015-06-05
 categories: blog cultural
 ---
+
+<h4>Assignment: Cultural Blog | Questions</h4>
 
 <p>
   For this blog post, I was assigned to research the art of asking good questions in the world of coding. As an educator, I have actually already done a lot of study around asking questions. However, I did find <a target="_blank" href="http://stackoverflow.com/help/how-to-ask">this article</a> very helpful in formatting a good question online. It is certainly possible to ask a question and never receive an answer, or to receive answers that don't help you understand what you were hoping to. For this reason, it will be important to follow these steps to increase the possibility that your question will be answered in a way that is helpful to your needs:
