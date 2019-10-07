@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Cultural Blog | Chefs in the Kitchen"
-post_title: "DBC First Impressions"
-post_subtitle: "Kitchen vs. Table"
+title: "DBC First Impressions"
+subtitle: "Kitchen vs. Table"
 date: 2015-04-12
 categories: blog cultural
 ---
+
+<h4>Assignment: Cultural Blog | Chefs in the Kitchen</h4>
 
 After watching <a target="_blank" href="https://vimeo.com/85001014">Shereef's Fireside Chat</a>, I have a bit of an idea of what the culture of Dev Bootcamp (DBC) looks like. Shereef likens the experience to a kitchen with lots of chefs, rather than a restaurant with lots of customers. The idea is that I, as a student, have not purchased a product to consume (I'll have the DBC, extra spicy, and I can send it back if it's not what I ordered). Instead, I should think of myself as a fellow chef, or co-creator, of the experience. The hope is that each of us will walk in saying, "I'm gonna co-create this with my cohort and with my teachers, and I'm going to surprise myself by how generous I am, how giving I have been, and how much I could possibly receive."
 

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Cultural Blog | Tech Issues"
-post_title: "The Intersectionality Riddle"
-post_subtitle: "What's Black and White and Feminist All Over?"
+title: "The Intersectionality Riddle"
+subtitle: "What's Black and White and Feminist All Over?"
 date: 2015-05-03
 categories: blog cultural
 ---
+
+<h4>Assignment: Cultural Blog | Tech Issues</h4>
 
 This week's cultural blog post assignment was to research a problem facing the tech world and to hypothesize potential solutions. I have struggled all week with one question: Do I write about the lack of women in STEM fields, or do I address the issue I experience much more often? As a biracial woman and a feminist, I often wrestle with the intersectionality of racism and sexism in society. And as I researched the heavily-covered issue of women being underrepresented in technical fields, I kept coming back to the same thought: Being a White woman in technology is like being a Black man everywhere else in America...minus the daily threat of violence. I do not say this to minimize the very real problem of sexism in technology, but to explain why the thought of hypothesizing solutions is so daunting to me.
 

@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Curriculum to Command Line
-post_title: Curriculum to Command Line
-post_subtitle: Why teachers make great coders, and what your team can learn from them
+subtitle: Why teachers make great coders, and what your team can learn from them
 date: 2019-09-19
 categories: blog
-background: /imgs/20190919-curriculum-to-command-line/01-title-page.png
 ---
 
 <p>

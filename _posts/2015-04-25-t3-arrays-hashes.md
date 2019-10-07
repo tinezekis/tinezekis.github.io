@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Technical Blog | Arrays & Hashes"
-post_title: "Keeping Track of It All"
-post_subtitle: "Arrays, Hashes, and When to Use Them"
+title: "Keeping Track of It All"
+subtitle: "Arrays, Hashes, and When to Use Them"
 date: 2015-04-25
 categories: blog technical
 ---
+
+<h4>Assignment: Technical Blog | Arrays & Hashes</h4>
 
 <p>
   In all programming languages, we can assign values to variables. For instance, if I want to create a sting that I will use multiple times and/or manipulate in some way, I will want to name it. In Ruby, we assign variables by listing the name followed by an equal sign and the assigned value. For example, <code>greeting = 'Hello, loyal blog readers!'</code> would tell the program that the variable <code>greeting</code> points to the string <code>'Hello, loyal blog readers!'</code> So any time I wanted to use the string or call some method on it, I can use <code>greeting</code> as a sort of nickname. We can also assign other types of values like integers or floats (numbers with a decimal point). For instance, <code>example_int = -47</code> assigns the integer value -47 to the variable <code>example_int</code>. Now, if I call the absolute value method thusly, <code>example_int.abs</code>, the return will be the absolute value of the variable (47).

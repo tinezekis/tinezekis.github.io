@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Technical Blog | JavaScript"
-post_title: "Lost in Translation?"
-post_subtitle: "Ruby Hashes vs. JavaScript Objects"
+title: "Lost in Translation?"
+subtitle: "Ruby Hashes vs. JavaScript Objects"
 date: 2015-05-24
 categories: blog technical
 ---
+
+<h4>Assignment: Technical Blog | JavaScript</h4>
 
 <p>
   This week at Dev Bootcamp, we started learning a new language: JavaScript. There are many similarities between JavaScript and Ruby, as well as many important differences. As with the study of any two languages, it is important to understand which pieces can be translated literally, and which pieces run the risk of getting lost in translation. In order to explore some of these further, we will focus on just one concept in each language. In this post, we will discuss Ruby Hashes and JavaScript Objects.
