@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-19T00:38:32-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">‘Tine Zekis</title><subtitle>'Tine Zekis (she/her) is a software engineer, speaker, and advocate for Diversity, Equity, and Inclusion in Tech. This site contains a collection of content produced by 'Tine. Find her blogs, slides, videos, and more.</subtitle><author><name>'Tine Zekis</name></author><entry><title type="html">Impostor Syndrome: Slaying the Beast</title><link href="http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-3.html" rel="alternate" type="text/html" title="Impostor Syndrome: Slaying the Beast" /><published>2019-12-19T00:00:00-06:00</published><updated>2019-12-19T00:00:00-06:00</updated><id>http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-3</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-3.html">&lt;p&gt;
-  Welcome to Part III of a three-part series on &lt;em&gt;Impostor Syndrome: Slaying the Beast&lt;/em&gt;. In this section, we will discuss the origin of the term and the initial research carried out on Impostor Syndrome. Here are the sections for the full series:
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-19T12:20:53-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">‘Tine Zekis</title><subtitle>'Tine Zekis (she/her) is a software engineer, speaker, and advocate for Diversity, Equity, and Inclusion in Tech. This site contains a collection of content produced by 'Tine. Find her blogs, slides, videos, and more.</subtitle><author><name>'Tine Zekis</name></author><entry><title type="html">Impostor Syndrome: Slaying the Beast</title><link href="http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-3.html" rel="alternate" type="text/html" title="Impostor Syndrome: Slaying the Beast" /><published>2019-12-19T00:00:00-06:00</published><updated>2019-12-19T00:00:00-06:00</updated><id>http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-3</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-3.html">&lt;p&gt;
+  Welcome to Part III of a three-part series on &lt;em&gt;Impostor Syndrome: Slaying the Beast&lt;/em&gt;. In this section, we will go over ways to fight off Impostor Syndrome. Here are the sections for the full series:
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&quot;/blog/2019/12/19/impostor-syndrome-part-1.html&quot;&gt;Part I: Origin Story&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;/blog/2019/12/19/impostor-syndrome-part-2.html&quot;&gt;Part II: Warning Signs&lt;/a&gt;&lt;/li&gt;
@@ -12,7 +12,7 @@
   &lt;!-- You can also view the talk I gave at TechBash &lt;a target=&quot;blank&quot; href=&quot;&quot;&gt;here&lt;/a&gt;. --&gt;
 &lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;hr&gt;
 
 &lt;p&gt;
   If you have not yet read parts I and II of this series, you can check those out here: &lt;a href=&quot;/blog/2019/12/19/impostor-syndrome-part-1.html&quot;&gt;Part I&lt;/a&gt;, &lt;a href=&quot;/blog/2019/12/19/impostor-syndrome-part-2.html&quot;&gt;Part II&lt;/a&gt;.
@@ -22,17 +22,15 @@
   I imagine that you are reading this because you have experienced some amount of Impostor Syndrome in your life. So, now what? It's time for our fight scene!
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-fight.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, holding up fists as if to fight&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-fight.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, holding up fists as if to fight&quot;&gt;
 
 &lt;h3&gt;Impostor Syndrome: Slaying the Beast&lt;/h3&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-godzilla.png&quot; alt=&quot;Cartoon of a person with brown skin, dressed in a Godzilla costume and kicking over a building&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-godzilla.png&quot; alt=&quot;Cartoon of a person with brown skin, dressed in a Godzilla costume and kicking over a building&quot;&gt;
 
 &lt;p&gt;
   Let's talk about how to slay the beast of Impostor Syndrome. We're going to cover various tools you can use, so hopefully you'll have a few powerful weapons in your arsenal to reach for whenever you need them.
 &lt;/p&gt;
-
-&lt;hr /&gt;
 
 &lt;h4&gt;Track Your Accomplishments and External Praise&lt;/h4&gt;
 
@@ -63,7 +61,7 @@
 
 &lt;h4&gt;Catalog Your Skills&lt;/h4&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-the-best.png&quot; alt=&quot;Cartoon of a person with short, black and pink hair, smiling and holding up a plaque that says, You're the Best&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-the-best.png&quot; alt=&quot;Cartoon of a person with short, black and pink hair, smiling and holding up a plaque that says, You're the Best&quot;&gt;
 
 &lt;p&gt;
   It can be a helpful exercise to list out your skills, the assets you bring to your current role (or to the role you're going for next). Sometimes it helps to think about your past experiences as a guide here. How were you able to be successful in your previous roles, or in school?
@@ -85,7 +83,7 @@
 
 &lt;h4&gt;Build Up Others&lt;/h4&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-you-got-this.png&quot; alt=&quot;Cartoon of a person with brown skin and pink hair, cheering and holing up a sign that says, You Got This&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-you-got-this.png&quot; alt=&quot;Cartoon of a person with brown skin and pink hair, cheering and holing up a sign that says, You Got This&quot;&gt;
 
 &lt;p&gt;
   Obviously, it will be your job to help out the other members of your squad. But let's go beyond that for a moment.
@@ -105,14 +103,13 @@
 
 &lt;h4&gt;Embrace Impostor Syndrome&lt;/h4&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-hell-yeah.png&quot; alt=&quot;Cartoon of a person brown skin and short, black and pink hair, erupting from a volcano with text that says, Hell Yeah!&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-hell-yeah.png&quot; alt=&quot;Cartoon of a person brown skin and short, black and pink hair, erupting from a volcano with text that says, Hell Yeah!&quot;&gt;
 
 &lt;p&gt;
   This is one of the best tweets I've read this year:
 &lt;/p&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Embrace imposter syndrome.&lt;br /&gt;&lt;br /&gt;Revel in the fact you have fooled everyone.&lt;br /&gt;&lt;br /&gt;You are a Trickster Goddess.&lt;br /&gt;&lt;br /&gt;You are the Imposter Child for Deception and Clever Ruses.&lt;/p&gt;&amp;mdash; i&amp;#39;m a skELIton (@EliLizzieLizbet) &lt;a href=&quot;https://twitter.com/EliLizzieLizbet/status/1107124546182832128?ref_src=twsrc%5Etfw&quot;&gt;March 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Embrace imposter syndrome.&lt;br&gt;&lt;br&gt;Revel in the fact you have fooled everyone.&lt;br&gt;&lt;br&gt;You are a Trickster Goddess.&lt;br&gt;&lt;br&gt;You are the Imposter Child for Deception and Clever Ruses.&lt;/p&gt;&amp;mdash; i&amp;#39;m a skELIton (@EliLizzieLizbet) &lt;a href=&quot;https://twitter.com/EliLizzieLizbet/status/1107124546182832128?ref_src=twsrc%5Etfw&quot;&gt;March 17, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;
   I'm sure you've heard the old adage to &lt;em&gt;fake it 'til you make it&lt;/em&gt;. Well, for those of us with Impostor Syndrome, there may not be a clear concept of what &quot;making it&quot; looks like. So let's keep being really good at faking it! It's important to understand that no one really knows what they're doing. Don't let the people with an unearned sense of confidence fool you into thinking they know more than you do. They just know how to look good…and so do you!
@@ -136,7 +133,7 @@
   Remind yourself of &lt;strong&gt;how good you are at coming across as a badass&lt;/strong&gt;. There's a reason people think you're great. Try to remind yourself of that every day.
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-affirmation.png&quot; alt=&quot;Cartoon of a person with short, black and pink hair, smiling into a mirror above the text, Today is gonna be great!&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-affirmation.png&quot; alt=&quot;Cartoon of a person with short, black and pink hair, smiling into a mirror above the text, Today is gonna be great!&quot;&gt;
 
 &lt;p&gt;
   Remind yourself of &lt;strong&gt;your unique skills&lt;/strong&gt;. What do you have that no one else on your team does?
@@ -150,9 +147,9 @@
   And finally, &lt;strong&gt;practice the act of confidence&lt;/strong&gt;. They say that just by smiling or laughing, you can make yourself start to feel happy. So why not start acting confident? Speak up in your next meeting. Raise your hand for that challenging task you want (and say no to the administrative task you're not interested in). Walk into your next interview or daily standup like you own the room. And if you're worried this won't come naturally, I find it's best to take it at a bit of a strut.
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-strut.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, posing on a fashion runway&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-strut.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, posing on a fashion runway&quot;&gt;
 
-&lt;hr /&gt;
+&lt;hr&gt;
 
 &lt;p&gt;
   Thanks for reading! For the rest of the series, check out the two previous posts:
@@ -173,7 +170,7 @@
     &lt;li&gt;Quotations by &lt;a target=&quot;blank&quot; href=&quot;https://www.instyle.com/celebrity/stars-imposter-syndrome&quot;&gt;InStyle&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://www.goodreads.com/author/quotes/3503.Maya_Angelou?page=9&quot;&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;Impostor Syndrome warning signs by &lt;a target=&quot;blank&quot; href=&quot;https://www.powerofpositivity.com/11-signs-you-have-impostor-syndrome-and-how-to-fix-it/&quot;&gt;Power of Positivity&lt;/a&gt;&lt;/li&gt;
   &lt;/ol&gt;
-&lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Welcome to Part III of a three-part series on Impostor Syndrome: Slaying the Beast. In this section, we will discuss the origin of the term and the initial research carried out on Impostor Syndrome. Here are the sections for the full series: Part I: Origin Story Part II: Warning Signs Part III: Fight Scene</summary></entry><entry><title type="html">Impostor Syndrome: Slaying the Beast</title><link href="http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-1.html" rel="alternate" type="text/html" title="Impostor Syndrome: Slaying the Beast" /><published>2019-12-19T00:00:00-06:00</published><updated>2019-12-19T00:00:00-06:00</updated><id>http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-1</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-1.html">&lt;p&gt;
+&lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Welcome to Part III of a three-part series on Impostor Syndrome: Slaying the Beast. In this section, we will go over ways to fight off Impostor Syndrome. Here are the sections for the full series: Part I: Origin Story Part II: Warning Signs Part III: Fight Scene</summary></entry><entry><title type="html">Impostor Syndrome: Slaying the Beast</title><link href="http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-1.html" rel="alternate" type="text/html" title="Impostor Syndrome: Slaying the Beast" /><published>2019-12-19T00:00:00-06:00</published><updated>2019-12-19T00:00:00-06:00</updated><id>http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-1</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-1.html">&lt;p&gt;
   Welcome to Part I of a three-part series on &lt;em&gt;Impostor Syndrome: Slaying the Beast&lt;/em&gt;. In this section, we will discuss the origin of the term and the initial research carried out on Impostor Syndrome. Here are the sections for the full series:
   &lt;ul&gt;
     &lt;li&gt;Part I: Origin Story&lt;/li&gt;
@@ -187,25 +184,29 @@
   &lt;!-- You can also view the talk I gave at TechBash &lt;a target=&quot;blank&quot; href=&quot;&quot;&gt;here&lt;/a&gt;. --&gt;
 &lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;hr&gt;
 
 &lt;p&gt;
   Oh, hey! My name is Christine Zekis, but I go by 'Tine Zekis, which also happens to be my Twitter handle (&lt;a target=&quot;blank&quot; href=&quot;https://twitter.com/tinezekis&quot;&gt;@tinezekis&lt;/a&gt;) My pronouns are she, her, hers, and I'm a software engineer…and an impostor.
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-hi.jpg&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, smiling and waving&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-hi.jpg&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, smiling and waving&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Hi!&lt;/p&gt;
 
 &lt;p&gt;
   Before we dig in, let's start with a definition: what is Impostor Syndrome? Impostor Syndrome is a thought pattern in which a person diminishes their own accomplishments, often attributing their successes to luck. This is coupled with a fear of being discovered to be a &quot;fraud&quot;, or less capable than they appear to be. (Paraphrased from &lt;a target=&quot;blank&quot; href=&quot;https://en.wikipedia.org/wiki/Impostor_syndrome&quot;&gt;Wikipedia&lt;/a&gt;)
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-worst-trophy.png&quot; alt=&quot;Cartoon of a person with short, black and pink hair, smiling and holding up a trophy that says, You're the Worst&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-worst-trophy.png&quot; alt=&quot;Cartoon of a person with short, black and pink hair, smiling and holding up a trophy that says, You're the Worst&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: &quot;You're the Worst&quot; Trophy&lt;/p&gt;
 
 &lt;h3&gt;Origin Story&lt;/h3&gt;
 
 &lt;p&gt;
   What we now call Impostor Syndrome was originally coined as the Impostor Phenomenon by two badass lady psychologists, Dr. Pauline Rose Clance and Dr. Suzanne Imes. In 1978, the conducted a &lt;a target=&quot;blank&quot; href=&quot;https://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf&quot;&gt;study&lt;/a&gt; on &amp;mdash; and coined the term &amp;mdash; the impostor phenomenon amongst high achieving women. Incidentally, they're both still practicing in Atlanta, helping people cope with Impostor Syndrome, among other things.
 &lt;/p&gt;
+
+&lt;h4&gt;The Study&lt;/h4&gt;
 
 &lt;p&gt;
   Clance and Imes studied 150 highly successful women for 5 years. They defined highly successful women as PhDs in various specialties, respected professionals in their fields, and students with high honors at prestigious institutions. All of these women shared in common a lack of an internal sense of success. Many believed their accomplishments were a result of luck, and in some cases, they even believed they got into an excellent school or got a great job as a result of some clerical error.
@@ -220,7 +221,10 @@
   &lt;/ul&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-gulp.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, looking anxious with the word GULP written underneath&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-gulp.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, looking anxious with the word GULP written underneath&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Gulp&lt;/p&gt;
+
+&lt;h4&gt;Contributing Factors&lt;/h4&gt;
 
 &lt;p&gt;
   Clance and Imes highlighted four contributing factors to the phenomenon. They first outlined two common family dynamics their subjects experienced as children. The first was being considered &quot;sensitive&quot; or &quot;charming&quot; in comparison to an &quot;intelligent&quot; sibling. These children tended to work hard to prove themselves, but their families remained comparatively unimpressed. They constantly battled between seeking validation, and fearing that their family was right after all.
@@ -230,13 +234,17 @@
   On the other hand, other subjects experienced the problem of being considered perfect, or effortlessly talented. These children were often told that they had an innate ability that allowed perfection to come easily to them. So any difficulties the did encounter seemed to be evidence that they were actually none of what they had been propped up to be.
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-one-job.png&quot; alt=&quot;Cartoon of a trophy with a person smacking their hand against their head. The plaque reads: You Had One Job&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-one-job.png&quot; alt=&quot;Cartoon of a trophy with a person smacking their hand against their head. The plaque reads: You Had One Job&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: &quot;You Had One Job&quot; Trophy&lt;/p&gt;
 
 &lt;p&gt;
   The researchers also laid out some societal factors that could contribute to the impostor phenomenon. First, they cited research claiming that women are more likely than men to have low expectations for success in various tasks. Our expectations color our perception of our experiences. When a person experiences unexpected success, they are more likely to attribute that success to an external, temporary cause, such as luck. In contrast, a person who expects to succeed will typically associate that success with an internal, stable cause, such as ability. Additionally, research at the time pointed to low expectations of women by society at large. All of these factors converge and lead to what we now refer to as Impostor Syndrome.
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-i-suck.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, frowning and holding a sign that says, I suck&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-i-suck.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, frowning and holding a sign that says, I suck&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: I Suck&lt;/p&gt;
+
+&lt;h4&gt;Therapies&lt;/h4&gt;
 
 &lt;p&gt;
   Clance and Imes also recommended several therapies for their clients in the study:
@@ -249,6 +257,8 @@
     &lt;li&gt;Finally, Clance and Imes encouraged their clients to &lt;strong&gt;try being themselves&lt;/strong&gt; more often. The hope is to disrupt the behavior of doing or saying things we don't want to for the sole purpose of gaining approval from others. Clients are then surprised and encouraged when the catastrophic consequences they imagined never come. Additionally, they are more inclined to accept compliments as authentic when they are being their genuine selves.&lt;/li&gt;
   &lt;/ol&gt;
 &lt;/p&gt;
+
+&lt;h4&gt;Limitations&lt;/h4&gt;
 
 &lt;p&gt;
   Of course, there were several limitations to the study as well. The authors noted that more study on men is needed. They found that men experienced the impostor phenomenon less frequently and less intensely than women. Speaking of which, there is also a large focus on the gender binary in the study. It discusses women in contrast to men, and acknowledges no other genders.
@@ -268,7 +278,8 @@
   Before we dig into how to fight off Impostor Syndrome, I think it's worthwhile to take a moment to normalize this experience. It's not just you!
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-same.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, pointing to themself. The text above says, Same&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-same.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, pointing to themself. The text above says, Same&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Same&lt;/p&gt;
 
 &lt;p&gt;
   In the name of normalization, I'll tell you a quick story about my own most recent experience with Impostor Syndrome. When I decided I wanted to start speaking at conferences, I read somewhere that you need to apply to ten conferences to get accepted to one. Of course, I assumed my conference acceptance rate would be lower than average. So I applied to 40, hoping to get two.
@@ -297,7 +308,7 @@
 &lt;/blockquote&gt;
 &lt;p class=&quot;blockquote-footer&quot;&gt;Maya Angelou, author and Nobel Laureate (&lt;a target=&quot;blank&quot; href=&quot;https://www.goodreads.com/author/quotes/3503.Maya_Angelou?page=9&quot;&gt;Goodreads&lt;/a&gt;)&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;hr&gt;
 
 &lt;p&gt;
   Thanks for reading! For the rest of the series, check out the next two posts:
@@ -318,7 +329,7 @@
     &lt;li&gt;Quotations by &lt;a target=&quot;blank&quot; href=&quot;https://www.instyle.com/celebrity/stars-imposter-syndrome&quot;&gt;InStyle&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://www.goodreads.com/author/quotes/3503.Maya_Angelou?page=9&quot;&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
   &lt;/ol&gt;
 &lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Welcome to Part I of a three-part series on Impostor Syndrome: Slaying the Beast. In this section, we will discuss the origin of the term and the initial research carried out on Impostor Syndrome. Here are the sections for the full series: Part I: Origin Story Part II: Warning Signs Part III: Fight Scene</summary></entry><entry><title type="html">Impostor Syndrome: Slaying the Beast</title><link href="http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-2.html" rel="alternate" type="text/html" title="Impostor Syndrome: Slaying the Beast" /><published>2019-12-19T00:00:00-06:00</published><updated>2019-12-19T00:00:00-06:00</updated><id>http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-2</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/19/impostor-syndrome-part-2.html">&lt;p&gt;
-  Welcome to Part II of a three-part series on &lt;em&gt;Impostor Syndrome: Slaying the Beast&lt;/em&gt;. In this section, we will discuss the origin of the term and the initial research carried out on Impostor Syndrome. Here are the sections for the full series:
+  Welcome to Part II of a three-part series on &lt;em&gt;Impostor Syndrome: Slaying the Beast&lt;/em&gt;. In this section, we will go over some of the ways to recognize Impostor Syndrome. Here are the sections for the full series:
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&quot;/blog/2019/12/19/impostor-syndrome-part-1.html&quot;&gt;Part I: Origin Story&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;Part II: Warning Signs&lt;/li&gt;
@@ -331,7 +342,7 @@
   &lt;!-- You can also view the talk I gave at TechBash &lt;a target=&quot;blank&quot; href=&quot;&quot;&gt;here&lt;/a&gt;. --&gt;
 &lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;hr&gt;
 
 &lt;p&gt;
   If you have not yet read Part I of this series, you can check it out &lt;a href=&quot;/blog/2019/12/19/impostor-syndrome-part-1.html&quot;&gt;here&lt;/a&gt;.
@@ -340,10 +351,11 @@
 &lt;h3&gt;Impostor Syndrome: Warning Signs&lt;/h3&gt;
 
 &lt;p&gt;
-  So let's get into something practical. How can we recognize Impostor Syndrome when it starts to sneak up on us? Here are some warning signs that you might be experiencing Impostor Syndrome:
+  So let's get into something practical. How can we recognize Impostor Syndrome when it starts to sneak up on us? Here are some &lt;a target=&quot;blank&quot; href=&quot;https://www.powerofpositivity.com/11-signs-you-have-impostor-syndrome-and-how-to-fix-it/&quot;&gt;warning signs&lt;/a&gt; that you might be experiencing Impostor Syndrome:
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-magnifying-glass.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, looking through a magnifying glass&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-magnifying-glass.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, looking through a magnifying glass&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Magnifying Glass&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;You have difficulty accepting praise.&lt;/strong&gt; Lots of people feel weird getting compliments, but &quot;impostors&quot; have trouble even recognizing praise as valid.&lt;/li&gt;
@@ -360,14 +372,16 @@
 &lt;/ol&gt;
 
 &lt;!-- Should I add back in the quiz from Sarah Cooper's book? --&gt;
+&lt;!-- If I do, update the Medium article draft with it as well --&gt;
 
 &lt;p&gt;
   I imagine that you are reading this because you have experienced some amount of Impostor Syndrome in your life. So, now what? It's time for our fight scene! (&lt;a href=&quot;/blog/2019/12/19/impostor-syndrome-part-3.html&quot;&gt;Part III: Fight Scene&lt;/a&gt;)
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-fight.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, holding up fists as if to fight&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191219-impostor-syndrome/bitmoji-fight.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, holding up fists as if to fight&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Fight&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;hr&gt;
 
 &lt;p&gt;
   Thanks for reading! For the rest of the series, check out the other two posts:
@@ -388,13 +402,14 @@
     &lt;li&gt;Quotations by &lt;a target=&quot;blank&quot; href=&quot;https://www.instyle.com/celebrity/stars-imposter-syndrome&quot;&gt;InStyle&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://www.goodreads.com/author/quotes/3503.Maya_Angelou?page=9&quot;&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;Impostor Syndrome warning signs by &lt;a target=&quot;blank&quot; href=&quot;https://www.powerofpositivity.com/11-signs-you-have-impostor-syndrome-and-how-to-fix-it/&quot;&gt;Power of Positivity&lt;/a&gt;&lt;/li&gt;
   &lt;/ol&gt;
-&lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Welcome to Part II of a three-part series on Impostor Syndrome: Slaying the Beast. In this section, we will discuss the origin of the term and the initial research carried out on Impostor Syndrome. Here are the sections for the full series: Part I: Origin Story Part II: Warning Signs Part III: Fight Scene</summary></entry><entry><title type="html">Curriculum to Command Line</title><link href="http://localhost:4000/blog/2019/09/19/curriculum-to-command-line.html" rel="alternate" type="text/html" title="Curriculum to Command Line" /><published>2019-09-19T00:00:00-05:00</published><updated>2019-09-19T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/09/19/curriculum-to-command-line</id><content type="html" xml:base="http://localhost:4000/blog/2019/09/19/curriculum-to-command-line.html">&lt;p&gt;
-  &lt;em&gt;This article is adapted from a talk I gave at &lt;a target=&quot;blank&quot; href=&quot;https://www.javascriptandfriends.com/&quot;&gt;JavaScript &amp;amp; Friends&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://www.musiccitytech.com/&quot;&gt;Music City Code&lt;/a&gt;. You can find the slides from that talk &lt;a target=&quot;blank&quot; href=&quot;https://speakerdeck.com/tinezekis/curriculum-to-command-line-why-teachers-make-great-coders-and-what-your-team-can-learn-from-them&quot;&gt;here&lt;/a&gt;. You can also read this article on &lt;a target=&quot;blank&quot; href=&quot;https://medium.com/@tinezekis/curriculum-to-command-line-why-teachers-make-great-coders-and-what-your-team-can-learn-from-them-2079c533a01a&quot;&gt;Medium&lt;/a&gt;.&lt;/em&gt;
+&lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Welcome to Part II of a three-part series on Impostor Syndrome: Slaying the Beast. In this section, we will go over some of the ways to recognize Impostor Syndrome. Here are the sections for the full series: Part I: Origin Story Part II: Warning Signs Part III: Fight Scene</summary></entry><entry><title type="html">Curriculum to Command Line</title><link href="http://localhost:4000/blog/2019/09/19/curriculum-to-command-line.html" rel="alternate" type="text/html" title="Curriculum to Command Line" /><published>2019-09-19T00:00:00-05:00</published><updated>2019-09-19T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/09/19/curriculum-to-command-line</id><content type="html" xml:base="http://localhost:4000/blog/2019/09/19/curriculum-to-command-line.html">&lt;p&gt;
+  &lt;em&gt;This article is adapted from a talk I gave at &lt;a target=&quot;blank&quot; href=&quot;https://www.javascriptandfriends.com/&quot;&gt;JavaScript &amp; Friends&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://www.musiccitytech.com/&quot;&gt;Music City Code&lt;/a&gt;. You can find the slides from that talk &lt;a target=&quot;blank&quot; href=&quot;https://speakerdeck.com/tinezekis/curriculum-to-command-line-why-teachers-make-great-coders-and-what-your-team-can-learn-from-them&quot;&gt;here&lt;/a&gt;. You can also read this article on &lt;a target=&quot;blank&quot; href=&quot;https://medium.com/@tinezekis/curriculum-to-command-line-why-teachers-make-great-coders-and-what-your-team-can-learn-from-them-2079c533a01a&quot;&gt;Medium&lt;/a&gt;.&lt;/em&gt;
 &lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;hr&gt;
 
-&lt;p&gt;&lt;img width=&quot;100%&quot; src=&quot;/imgs/20190919-curriculum-to-command-line/01-title-page.png&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;100%&quot; src=&quot;/imgs/20190919-curriculum-to-command-line/01-title-page.png&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Curriculum to Command Line: What teachers make great coders, and what your team can learn from them&lt;/p&gt;
 
 &lt;p&gt;
   Hello! My name is Christine Zekis, but I go by ‘Tine Zekis, which also happens to be my Twitter handle (&lt;a target=&quot;blank&quot; href=&quot;https://twitter.com/tinezekis&quot;&gt;tinezekis&lt;/a&gt;). My pronouns are she, her, hers. I’m a Software Engineer and a former High School Math Teacher.
@@ -422,7 +437,8 @@
   Now that you’ve thought a bit about what makes an awesome teacher, I’d like to spend a few minutes convincing you of my premise…that awesome teachers make awesome coders.
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;80%&quot; src=&quot;/imgs/20190919-curriculum-to-command-line/02-argument.png&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;/imgs/20190919-curriculum-to-command-line/02-argument.png&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;The Argument: Why (awesome) teachers make awesome coders&lt;/p&gt;
 
 &lt;h3&gt;(Awesome) Teachers Make Awesome Coders&lt;/h3&gt;
 
@@ -430,9 +446,10 @@
   While planning any lesson, most teachers will start with the learning objectives. What will students be able to do as a result of this lesson? A learning objective might be something like, “As a student in Ms. Zekis’s Algebra class, I can apply the quadratic formula to solve word problems involving trajectory.” Perhaps you’ve seen something similar in your work, only developers would call this a &lt;em&gt;&lt;strong&gt;user story&lt;/strong&gt;&lt;/em&gt;. A user story could be, “As a user with admin access, I can edit the names and email addresses of other users.”
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;80%&quot; src=&quot;/imgs/20190919-curriculum-to-command-line/03-user-stories.png&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;/imgs/20190919-curriculum-to-command-line/03-user-stories.png&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;User Stories: What will users be able to do?&lt;/p&gt;
 
-&lt;h4&gt;Learning Objectives =&amp;gt; User Stories&lt;/h4&gt;
+&lt;h4&gt;Learning Objectives =&gt; User Stories&lt;/h4&gt;
 
 &lt;p&gt;
   So let’s talk about the learning objectives, or user stories, for this article:
@@ -448,15 +465,16 @@
   Consider these various roles and decide what your goals will be for the remainder of your reading here. Try to focus on one or two of these objectives as we continue on.
 &lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;hr&gt;
 
 &lt;p&gt;
   After establishing the learning objectives, teachers will typically move on to the assessment. How do we know we met our objectives? Translating this to the world of coding isn’t too much of a stretch: this is when we would write our tests or specs. How do we know the code does what we say it does?
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;80%&quot; src=&quot;/imgs/20190919-curriculum-to-command-line/04-write-the-tests.png&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;/imgs/20190919-curriculum-to-command-line/04-write-the-tests.png&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Write the Tests: How do we know it does what we say it does?&lt;/p&gt;
 
-&lt;h4&gt;Write the Assessment =&amp;gt; Write the Tests&lt;/h4&gt;
+&lt;h4&gt;Write the Assessment =&gt; Write the Tests&lt;/h4&gt;
 
 &lt;p&gt;
   When I used to write math exams, I would start by making sure the students can solve a particular type of problem with an intuitive solution. For instance, the answer is a positive, whole number. Developers might call this the &lt;em&gt;&lt;strong&gt;happy path&lt;/strong&gt;&lt;/em&gt;. But I also want to make sure the students can solve problems with harder solutions. Maybe the answer is negative, or zero. Maybe it’s a very large number or a decimal. These are our &lt;em&gt;&lt;strong&gt;edge cases&lt;/strong&gt;&lt;/em&gt;.
@@ -466,15 +484,16 @@
   And not until the assessment is done do I start to figure out what the students must do to get from where they are to where they will need to be to meet the objectives. In education, we call this Backward Planning, or Outcome-Based Education. In the tech industry, we might call this &lt;em&gt;&lt;strong&gt;test-driven development (TDD)&lt;/strong&gt;&lt;/em&gt;.
 &lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;hr&gt;
 
 &lt;p&gt;
   Then, after all the planning, it’s time to actually teach the lesson. This is usually around the time that 90% of the plan gets thrown out the window. I’m going to call this part &lt;em&gt;&lt;strong&gt;deployment&lt;/strong&gt;&lt;/em&gt;. Throw it out there and wait for something to go wrong.
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;80%&quot; src=&quot;/imgs/20190919-curriculum-to-command-line/05-deployment.png&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;/imgs/20190919-curriculum-to-command-line/05-deployment.png&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Development: Here goes nothin'!&lt;/p&gt;
 
-&lt;h4&gt;Teaching the Lesson =&amp;gt; Deployment&lt;/h4&gt;
+&lt;h4&gt;Teaching the Lesson =&gt; Deployment&lt;/h4&gt;
 
 &lt;p&gt;
   Various studies have estimated that teachers make anywhere from 1,000 to 3,000 decisions per day in their classrooms. I’ve seen &lt;a target=&quot;blank&quot; href=&quot;http://info.csp.edu/globalassets/academic-resources/academic-departments/teacher-education/teacher-education-conceptual-framework.pdf&quot;&gt;1,500&lt;/a&gt; cited most often, so we’ll stick with that for the sake of argument. If we assume a day from 8:00am to 3:00pm with a 30-minute lunch break, that’s more than 230 decisions per hour, which is almost 4 per minute. So that’s a decision just about every 15 seconds. Teachers are constantly adjusting to the changing situations in their classrooms — moving closer to the student who seems distracted, pausing to assess understanding, switching gears if the class isn’t getting it or just seems restless.
@@ -484,17 +503,18 @@
   I’m not sure about you, but that’s the kind of person I want troubleshooting support issues on my team. Plus, who better to have on an Agile team doing CI/CD? Our teams need to be nimble, able to pivot when we get new requirements or feedback from our users. And teachers are trained in that kind of flexibility and willingness to change directions.
 &lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;hr&gt;
 
-&lt;p&gt;&lt;img width=&quot;80%&quot; src=&quot;/imgs/20190919-curriculum-to-command-line/06-lifelong-learners.png&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;/imgs/20190919-curriculum-to-command-line/06-lifelong-learners.png&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Lifelong Learners: Coders are constantly growing, adjusting, and learning new things&lt;/p&gt;
 
-&lt;h4&gt;Lifelong Learners =&amp;gt; Lifelong Learners&lt;/h4&gt;
+&lt;h4&gt;Lifelong Learners =&gt; Lifelong Learners&lt;/h4&gt;
 
 &lt;p&gt;
   One more transferable skill teachers can bring to development is their commitment to lifelong learning. Teachers are constantly growing, adjusting, and learning new things. I’m not going to change this one. This applies to coders without any updates. Technology is always changing, and to do well in this field, coders need to be constantly growing, adjusting, and learning new things.
 &lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;hr&gt;
 
 &lt;p&gt;
   Okay, let’s bring it back to our initial conversation. Think about that favorite teacher you remembered earlier, and consider this: &lt;em&gt;Would your favorite teacher make a great coder? Why or why not?&lt;/em&gt;
@@ -530,7 +550,8 @@
   I hope we can all agree that, in order to excel in this field, we need to be willing and able to continue learning. Now, there are countless studies on how people learn, but I’m going to go way back to some early thinking on the topic. Aristotle once said, “Teaching is the highest form of understanding.” (&lt;a target=&quot;blank&quot; href=&quot;https://www.teachthought.com/pedagogy/great-best-quotes-about-teaching/&quot;&gt;Source&lt;/a&gt;) Since then, people have done tons of research on the matter, and this seems to actually be the case.
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img width=&quot;80%&quot; src=&quot;/imgs/20190919-curriculum-to-command-line/07-protege-effect.png&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;/imgs/20190919-curriculum-to-command-line/07-protege-effect.png&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;The Protégé Effect: The improved comprehension experienced as a result of teaching a new concept&lt;/p&gt;
 
 &lt;p&gt;
   Psychologists call it the &lt;strong&gt;Protégé Effect&lt;/strong&gt;. The Protégé Effect is the improved short-term and long-term comprehension one gets from preparing to teach and carrying out a lesson on a new concept. In other words, if you want to learn something, the best thing you can do is teach it.
@@ -568,7 +589,7 @@
 &lt;h4&gt;Ways to Teach&lt;/h4&gt;
 
 &lt;p&gt;
-  There are also lots of ways to teach. One is to &lt;em&gt;&lt;strong&gt;give a talk&lt;/strong&gt;&lt;/em&gt;. You can give a lightning talk, host a lunch &amp;amp; learn, lead a meeting, or put together some other form of group presentation.
+  There are also lots of ways to teach. One is to &lt;em&gt;&lt;strong&gt;give a talk&lt;/strong&gt;&lt;/em&gt;. You can give a lightning talk, host a lunch &amp; learn, lead a meeting, or put together some other form of group presentation.
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -625,7 +646,7 @@
     &lt;li&gt;Protégé Effect summary by &lt;a target=&quot;blank&quot; href=&quot;https://effectiviology.com/protege-effect-learn-by-teaching/&quot;&gt;Effectiviology&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;Presentation template by &lt;a target=&quot;blank&quot; href=&quot;https://www.slidescarnival.com/&quot;&gt;SlidesCarnival&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
-&lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">This article is adapted from a talk I gave at JavaScript &amp;amp; Friends and Music City Code. You can find the slides from that talk here. You can also read this article on Medium.</summary></entry><entry><title type="html">Career Changers &amp;amp; Impostor Syndrome</title><link href="http://localhost:4000/blog/2019/01/10/career-changers-and-impostor-syndrome.html" rel="alternate" type="text/html" title="Career Changers &amp; Impostor Syndrome" /><published>2019-01-10T00:00:00-06:00</published><updated>2019-01-10T00:00:00-06:00</updated><id>http://localhost:4000/blog/2019/01/10/career-changers-and-impostor-syndrome</id><content type="html" xml:base="http://localhost:4000/blog/2019/01/10/career-changers-and-impostor-syndrome.html">&lt;p&gt;
+&lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">This article is adapted from a talk I gave at JavaScript &amp; Friends and Music City Code. You can find the slides from that talk here. You can also read this article on Medium.</summary></entry><entry><title type="html">Career Changers &amp;amp; Impostor Syndrome</title><link href="http://localhost:4000/blog/2019/01/10/career-changers-and-impostor-syndrome.html" rel="alternate" type="text/html" title="Career Changers &amp; Impostor Syndrome" /><published>2019-01-10T00:00:00-06:00</published><updated>2019-01-10T00:00:00-06:00</updated><id>http://localhost:4000/blog/2019/01/10/career-changers-and-impostor-syndrome</id><content type="html" xml:base="http://localhost:4000/blog/2019/01/10/career-changers-and-impostor-syndrome.html">&lt;p&gt;
   On Tuesday, January 8th of this year, I gave my first formal lightning talk! &lt;a target=&quot;blank&quot; href=&quot;https://devtogether.co/&quot;&gt;Dev Together&lt;/a&gt; put on a lightning talk event (hosted by &lt;a target=&quot;blank&quot; href=&quot;https://about.redshelf.com/&quot;&gt;RedShelf&lt;/a&gt;) around the theme &quot;Your first dev job&quot;. Dev Together posted a &lt;a target=&quot;blank&quot; href=&quot;https://devtogether.co/blog/jan-lightning-talks-recap&quot;&gt;recap of the event&lt;/a&gt;, where you can see videos of all eight talks.
 &lt;/p&gt;
 &lt;p&gt;
@@ -635,7 +656,7 @@
 &lt;p&gt;
   My name is Christine Zekis, but I go by ‘Tine Zekis…which also happens to be my &lt;a target=&quot;blank&quot; href=&quot;https://twitter.com/tinezekis&quot;&gt;Twitter handle&lt;/a&gt;, for those of you who would like to follow me after you read this. My pronouns are she/her/hers. And as you may have correctly guessed, I am a career changer. In my former life, I was a high school math teacher.
 &lt;/p&gt;
-&lt;p&gt;&lt;img width=&quot;70%&quot; src=&quot;/imgs/profile-pic.jpg&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;70%&quot; src=&quot;/imgs/profile-pic.jpg&quot;&gt;
 &lt;p&gt;
   I started coding about 4 years ago, and I’m currently working as a mid-level software engineer at an AdTech firm called &lt;a target=&quot;blank&quot; href=&quot;https://www.centro.net/&quot;&gt;Centro&lt;/a&gt; (cough..cough…&lt;a target=&quot;blank&quot; href=&quot;https://www.centro.net/about/careers/&quot;&gt;we’re hiring!&lt;/a&gt;). So, it wasn’t too long ago that I was in the position of looking for my first dev job. And one of the things I remember most vividly from that experience is:
 &lt;/p&gt;
@@ -646,7 +667,7 @@
 &lt;p&gt;
   I say this for a variety of reasons. First, it’s tough to be new, especially if you’ve been somewhere where you were an expert. There are going to be times when you feel like you don’t belong in tech. Maybe some of your colleagues have been coding since high school, and you’ve only been coding for six months!
 &lt;/p&gt;
-&lt;p&gt;&lt;img width=&quot;40%&quot; src=&quot;/imgs/worried-face.jpg&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;40%&quot; src=&quot;/imgs/worried-face.jpg&quot;&gt;
 &lt;p&gt;
   These are all legit concerns. But they don’t tell the whole story. So I want to talk about one strategy you can use when you feel Imposter Syndrome sneaking up on you.
 &lt;/p&gt;
@@ -657,7 +678,7 @@
 &lt;p&gt;
   So we’re going to work on ditching the deficit mindset. Let’s stop thinking about what you haven’t done…yet. You bring a wealth of experience no one else on your team has. So think about what your unique talents are. What transferable skills have you honed in your previous experiences? These are the things that will build your confidence, and help you start contributing right away to your team. For example, when I was looking for my first dev job, I thought about what skills I had honed as a math teacher.
 &lt;/p&gt;
-&lt;p&gt;&lt;img width=&quot;60%&quot; src=&quot;/imgs/smiling-office-worker.jpg&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;60%&quot; src=&quot;/imgs/smiling-office-worker.jpg&quot;&gt;
 &lt;p&gt;
   For instance, I can get up in front of a room full of people and give a &lt;a target=&quot;blank&quot; href=&quot;https://devtogether.co/blog/jan-lightning-talks-recap#tine-zekis&quot;&gt;presentation&lt;/a&gt;. I also bring a passion for social justice, which translates well to working in diversity and inclusion efforts in tech. But probably the most important skill I bring is my ability to teach. So the guy next to me has been coding since high school. Well, I’ve been tutoring math since high school. I can take a concept that most people find scary or intimidating — like deriving the quadratic formula or the limitations of a technology my team is considering — and I can explain it at the level of whomever I’m talking to. Not every engineer can do that…but every good dev team sure could use someone who can. In the interview for my first dev job, I told my future boss that I’m a developer who speaks human.
 &lt;/p&gt;
@@ -665,7 +686,7 @@
 &lt;p&gt;
   Maybe you’ve worked in sales, and your new dev team is building a tool for the sales team at your company. My &lt;i&gt;goodness&lt;/i&gt;, who better to have in those meetings than you?! You can help your team to understand the needs of your users, since you’re familiar with the day-to-day of a sales team. And you can help explain the technical stuff in a way your colleagues across the table will understand.
 &lt;/p&gt;
-&lt;p&gt;&lt;img width=&quot;80%&quot; src=&quot;/imgs/business-meeting.jpg&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;/imgs/business-meeting.jpg&quot;&gt;
 &lt;p&gt;
   Okay, so the sales example is awfully specific, and probably doesn’t apply directly to most of you, dear readers. So I’d like you all to take a moment (whether you’re a career changer or not), and think about what specific skills you bring to the table. Take some time to think about your transferable skills. Seriously, do it right now. I’ll give you a moment.
 &lt;/p&gt;
@@ -682,7 +703,7 @@
 &lt;p&gt;
   Awesome dev teams, who know what they’re doing, aren’t just looking for a good fit. They’re looking for a good add. They want someone who brings something to the table that they don’t already have.
 &lt;/p&gt;
-&lt;p&gt;&lt;img width=&quot;80%&quot; src=&quot;/imgs/diverse-business-colleagues.jpg&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;/imgs/diverse-business-colleagues.jpg&quot;&gt;
 &lt;p&gt;
   So walk into your interviews knowing that’s you.
 &lt;/p&gt;
@@ -695,14 +716,14 @@
 &lt;p&gt;
   If you’re worried this won’t come naturally, I find it’s best to take it at a bit of a strut.
 &lt;/p&gt;
-&lt;p&gt;&lt;img width=&quot;70%&quot; src=&quot;/imgs/model-strut.gif&quot; /&gt;&lt;/p&gt;
+&lt;img width=&quot;70%&quot; src=&quot;/imgs/model-strut.gif&quot;&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;
   *                    *                    *
 &lt;/p&gt;
 &lt;p&gt;
   If you want to watch the video, check it out below. And if you’d like, you can follow along with my slides &lt;a target=&quot;blank&quot; href=&quot;https://speakerdeck.com/tinezekis/career-changers-and-impostor-syndrome-leveraging-your-unique-strengths&quot;&gt;here&lt;/a&gt;.
 &lt;/p&gt;
-&lt;iframe width=&quot;250&quot; src=&quot;https://www.youtube.com/embed/8o2tt9dt0Lc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">On Tuesday, January 8th of this year, I gave my first formal lightning talk! Dev Together put on a lightning talk event (hosted by RedShelf) around the theme &quot;Your first dev job&quot;. Dev Together posted a recap of the event, where you can see videos of all eight talks. But for those of you whose learning style gives you a preference for reading information, I’m going to recap my talk here. Enjoy! A Little about Me My name is Christine Zekis, but I go by ‘Tine Zekis…which also happens to be my Twitter handle, for those of you who would like to follow me after you read this. My pronouns are she/her/hers. And as you may have correctly guessed, I am a career changer. In my former life, I was a high school math teacher. I started coding about 4 years ago, and I’m currently working as a mid-level software engineer at an AdTech firm called Centro (cough..cough…we’re hiring!). So, it wasn’t too long ago that I was in the position of looking for my first dev job. And one of the things I remember most vividly from that experience is: Impostor Syndrome Let’s start with a definition I’m paraphrasing from Wikipedia: Impostor Syndrome is a thought pattern where a person diminishes their own accomplishments, largely attributing their successes to luck. This is paired with a fear of being exposed as a “fraud”, or not as capable as they appear to be. Imposter Syndrome can affect all kinds of people at all different stages of their careers. But I think a group that is especially prone to this type of thinking are career changers. I say this for a variety of reasons. First, it’s tough to be new, especially if you’ve been somewhere where you were an expert. There are going to be times when you feel like you don’t belong in tech. Maybe some of your colleagues have been coding since high school, and you’ve only been coding for six months! These are all legit concerns. But they don’t tell the whole story. So I want to talk about one strategy you can use when you feel Imposter Syndrome sneaking up on you. Ditch the Deficit Mindset Imposter Syndrome feeds off of the deficit mindset. You know, things like: &quot;I’ve never done this;&quot; &quot;I don’t know how to do that;&quot; &quot;Oh my goodness, people are gonna realize I don’t know what the heck I’m doing!&quot; These are the types of thoughts that breed Imposter Syndrome. So we’re going to work on ditching the deficit mindset. Let’s stop thinking about what you haven’t done…yet. You bring a wealth of experience no one else on your team has. So think about what your unique talents are. What transferable skills have you honed in your previous experiences? These are the things that will build your confidence, and help you start contributing right away to your team. For example, when I was looking for my first dev job, I thought about what skills I had honed as a math teacher. For instance, I can get up in front of a room full of people and give a presentation. I also bring a passion for social justice, which translates well to working in diversity and inclusion efforts in tech. But probably the most important skill I bring is my ability to teach. So the guy next to me has been coding since high school. Well, I’ve been tutoring math since high school. I can take a concept that most people find scary or intimidating — like deriving the quadratic formula or the limitations of a technology my team is considering — and I can explain it at the level of whomever I’m talking to. Not every engineer can do that…but every good dev team sure could use someone who can. In the interview for my first dev job, I told my future boss that I’m a developer who speaks human. So, What about You? Maybe you’ve worked in sales, and your new dev team is building a tool for the sales team at your company. My goodness, who better to have in those meetings than you?! You can help your team to understand the needs of your users, since you’re familiar with the day-to-day of a sales team. And you can help explain the technical stuff in a way your colleagues across the table will understand. Okay, so the sales example is awfully specific, and probably doesn’t apply directly to most of you, dear readers. So I’d like you all to take a moment (whether you’re a career changer or not), and think about what specific skills you bring to the table. Take some time to think about your transferable skills. Seriously, do it right now. I’ll give you a moment. * * * Perhaps you’re thinking about your experience in customer service, or your excellent communication skills. Maybe you are a musician and you’re great at pattern recognition, or you’ve done work with creative problem-solving. Or maybe your previous work has helped you master the art of persuasion. All of these are invaluable skills to bring to a dev team. Revisit this idea over the next few days and try to come up with one or two unique attributes you can highlight. And if you’re having trouble thinking of anything, consider this: Being new is an asset, in and of itself. You’re a pair of fresh eyes on the code. You can ask questions that no one else has thought of because “that’s just how we’ve always done things”. You bring your unique experience and perspective into everything you do. I’ll Leave You with This Awesome dev teams, who know what they’re doing, aren’t just looking for a good fit. They’re looking for a good add. They want someone who brings something to the table that they don’t already have. So walk into your interviews knowing that’s you. Walk into your first day on the job knowing that’s you. Then comes the really hard part: walk into all the other days on the job knowing that’s you. If you’re worried this won’t come naturally, I find it’s best to take it at a bit of a strut. * * * If you want to watch the video, check it out below. And if you’d like, you can follow along with my slides here.</summary></entry><entry><title type="html">The Most Important Question</title><link href="http://localhost:4000/blog/cultural/2015/06/05/c9-questions.html" rel="alternate" type="text/html" title="The Most Important Question" /><published>2015-06-05T00:00:00-05:00</published><updated>2015-06-05T00:00:00-05:00</updated><id>http://localhost:4000/blog/cultural/2015/06/05/c9-questions</id><content type="html" xml:base="http://localhost:4000/blog/cultural/2015/06/05/c9-questions.html">&lt;h4&gt;Assignment: Cultural Blog | Questions&lt;/h4&gt;
+&lt;iframe width=&quot;250&quot; src=&quot;https://www.youtube.com/embed/8o2tt9dt0Lc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">On Tuesday, January 8th of this year, I gave my first formal lightning talk! Dev Together put on a lightning talk event (hosted by RedShelf) around the theme &quot;Your first dev job&quot;. Dev Together posted a recap of the event, where you can see videos of all eight talks. But for those of you whose learning style gives you a preference for reading information, I’m going to recap my talk here. Enjoy! A Little about Me My name is Christine Zekis, but I go by ‘Tine Zekis…which also happens to be my Twitter handle, for those of you who would like to follow me after you read this. My pronouns are she/her/hers. And as you may have correctly guessed, I am a career changer. In my former life, I was a high school math teacher. I started coding about 4 years ago, and I’m currently working as a mid-level software engineer at an AdTech firm called Centro (cough..cough…we’re hiring!). So, it wasn’t too long ago that I was in the position of looking for my first dev job. And one of the things I remember most vividly from that experience is: Impostor Syndrome Let’s start with a definition I’m paraphrasing from Wikipedia: Impostor Syndrome is a thought pattern where a person diminishes their own accomplishments, largely attributing their successes to luck. This is paired with a fear of being exposed as a “fraud”, or not as capable as they appear to be. Imposter Syndrome can affect all kinds of people at all different stages of their careers. But I think a group that is especially prone to this type of thinking are career changers. I say this for a variety of reasons. First, it’s tough to be new, especially if you’ve been somewhere where you were an expert. There are going to be times when you feel like you don’t belong in tech. Maybe some of your colleagues have been coding since high school, and you’ve only been coding for six months! These are all legit concerns. But they don’t tell the whole story. So I want to talk about one strategy you can use when you feel Imposter Syndrome sneaking up on you. Ditch the Deficit Mindset Imposter Syndrome feeds off of the deficit mindset. You know, things like: &quot;I’ve never done this;&quot; &quot;I don’t know how to do that;&quot; &quot;Oh my goodness, people are gonna realize I don’t know what the heck I’m doing!&quot; These are the types of thoughts that breed Imposter Syndrome. So we’re going to work on ditching the deficit mindset. Let’s stop thinking about what you haven’t done…yet. You bring a wealth of experience no one else on your team has. So think about what your unique talents are. What transferable skills have you honed in your previous experiences? These are the things that will build your confidence, and help you start contributing right away to your team. For example, when I was looking for my first dev job, I thought about what skills I had honed as a math teacher. For instance, I can get up in front of a room full of people and give a presentation. I also bring a passion for social justice, which translates well to working in diversity and inclusion efforts in tech. But probably the most important skill I bring is my ability to teach. So the guy next to me has been coding since high school. Well, I’ve been tutoring math since high school. I can take a concept that most people find scary or intimidating — like deriving the quadratic formula or the limitations of a technology my team is considering — and I can explain it at the level of whomever I’m talking to. Not every engineer can do that…but every good dev team sure could use someone who can. In the interview for my first dev job, I told my future boss that I’m a developer who speaks human. So, What about You? Maybe you’ve worked in sales, and your new dev team is building a tool for the sales team at your company. My goodness, who better to have in those meetings than you?! You can help your team to understand the needs of your users, since you’re familiar with the day-to-day of a sales team. And you can help explain the technical stuff in a way your colleagues across the table will understand. Okay, so the sales example is awfully specific, and probably doesn’t apply directly to most of you, dear readers. So I’d like you all to take a moment (whether you’re a career changer or not), and think about what specific skills you bring to the table. Take some time to think about your transferable skills. Seriously, do it right now. I’ll give you a moment. * * * Perhaps you’re thinking about your experience in customer service, or your excellent communication skills. Maybe you are a musician and you’re great at pattern recognition, or you’ve done work with creative problem-solving. Or maybe your previous work has helped you master the art of persuasion. All of these are invaluable skills to bring to a dev team. Revisit this idea over the next few days and try to come up with one or two unique attributes you can highlight. And if you’re having trouble thinking of anything, consider this: Being new is an asset, in and of itself. You’re a pair of fresh eyes on the code. You can ask questions that no one else has thought of because “that’s just how we’ve always done things”. You bring your unique experience and perspective into everything you do. I’ll Leave You with This Awesome dev teams, who know what they’re doing, aren’t just looking for a good fit. They’re looking for a good add. They want someone who brings something to the table that they don’t already have. So walk into your interviews knowing that’s you. Walk into your first day on the job knowing that’s you. Then comes the really hard part: walk into all the other days on the job knowing that’s you. If you’re worried this won’t come naturally, I find it’s best to take it at a bit of a strut. * * * If you want to watch the video, check it out below. And if you’d like, you can follow along with my slides here.</summary></entry><entry><title type="html">The Most Important Question</title><link href="http://localhost:4000/blog/cultural/2015/06/05/c9-questions.html" rel="alternate" type="text/html" title="The Most Important Question" /><published>2015-06-05T00:00:00-05:00</published><updated>2015-06-05T00:00:00-05:00</updated><id>http://localhost:4000/blog/cultural/2015/06/05/c9-questions</id><content type="html" xml:base="http://localhost:4000/blog/cultural/2015/06/05/c9-questions.html">&lt;h4&gt;Assignment: Cultural Blog | Questions&lt;/h4&gt;
 
 &lt;p&gt;
   For this blog post, I was assigned to research the art of asking good questions in the world of coding. As an educator, I have actually already done a lot of study around asking questions. However, I did find &lt;a target=&quot;_blank&quot; href=&quot;http://stackoverflow.com/help/how-to-ask&quot;&gt;this article&lt;/a&gt; very helpful in formatting a good question online. It is certainly possible to ask a question and never receive an answer, or to receive answers that don't help you understand what you were hoping to. For this reason, it will be important to follow these steps to increase the possibility that your question will be answered in a way that is helpful to your needs:
@@ -710,7 +731,7 @@
 &lt;ol&gt;
   &lt;li&gt;&lt;h4&gt;Research&lt;/h4&gt;
     Hopefully, before you are posting your question online, you have already conducted some kind of search for the information yourself. If you keep track of the information you found in this search, you may be able to help others understand what information you are still missing. You may even want to provide links to related questions that remain unanswered.
-  &lt;/li&gt;&lt;br /&gt;
+  &lt;/li&gt;&lt;br&gt;
   &lt;li&gt;&lt;h4&gt;Summarize your problem in the title&lt;/h4&gt;
     The people who will potentially respond to your question will be looking at the title to determine whether to keep reading. It is important to make sure that your title is specific enough to draw in someone who has knowledge on the subject. I thought these examples from the &lt;a target=&quot;_blank&quot; href=&quot;http://stackoverflow.com/help/how-to-ask&quot;&gt;stackoverflow&lt;/a&gt; article were excellent, so I stole them:
     &lt;ul&gt;
@@ -722,19 +743,19 @@
       &lt;li&gt;&lt;b&gt;Good: &lt;/b&gt;Why does str == &quot;value&quot; evaluate to false when str is set to &quot;value&quot;?&lt;/li&gt;
     &lt;/ul&gt;
     Be sure to include error messages you have come across, key APIs (application program interface), and any unusual situation that makes your question unique from (or similar to) other questions you've seen asked. Also, &lt;b&gt;make sure your spelling, punctuation, and grammar are correct in your title&lt;/b&gt;, since this is the first thing people will see. Finally, if you're having trouble coming up with a summarizing title, you can choose to write this part last; after writing out the longer version, it may become more clear what the focus of your problem should be.
-  &lt;/li&gt;&lt;br /&gt;
+  &lt;/li&gt;&lt;br&gt;
   &lt;li&gt;&lt;h4&gt;Describe the problem &lt;i&gt;before&lt;/i&gt; displaying any code&lt;/h4&gt;
     Now is the time to expand on the problem introduced in your title. How did you encounter this problem? What difficulties did you run into while trying to solve the problem?
-  &lt;/li&gt;&lt;br /&gt;
+  &lt;/li&gt;&lt;br&gt;
   &lt;li&gt;&lt;h4&gt;Make it possible for others to reproduce the problem&lt;/h4&gt;
     This is where you can include code if that is where your problem lies. Be sure to only include the relevant code. Readers of your question should be able to reproduce the problem with the code you have provided.
-  &lt;/li&gt;&lt;br /&gt;
+  &lt;/li&gt;&lt;br&gt;
   &lt;li&gt;&lt;h4&gt;Include all tags that are relevant to your question&lt;/h4&gt;
     The sites that allow you to post coding questions will also have a tagging system you can use to attract users who have knowledge on specific, relevant topics. Make sure you tag the language and API you are using. As you begin adding tags, other related tags may become available. Just make sure that you read the descriptions first if you aren't sure whether they are relevant to your problem. If you want more information on tagging, check out &lt;a target=&quot;_blank&quot; href=&quot;http://stackoverflow.com/help/tagging&quot;&gt;this article&lt;/a&gt;.
-  &lt;/li&gt;&lt;br /&gt;
+  &lt;/li&gt;&lt;br&gt;
   &lt;li&gt;&lt;h4&gt;Proof-read!&lt;/h4&gt;
     Try to read through your question with fresh eyes. See if you can recreate the problem using only the information provided. Also, make sure you are checking for spelling, punctuation, and grammar before you post.
-  &lt;/li&gt;&lt;br /&gt;
+  &lt;/li&gt;&lt;br&gt;
   &lt;li&gt;&lt;h4&gt;Post your question and be sure to respond to all feedback&lt;/h4&gt;
     Once you have posted your question, stick around for a bit to see if anyone comments on it. There may be some information missing that people ask for. Try to respond right away by editing the question to include that information. Also, if someone has answered your question, try out their suggestion to see if it works and give them feedback on whether or not it did.
   &lt;/li&gt;
@@ -862,15 +883,15 @@
 &lt;h3&gt;Ruby Hashes&lt;/h3&gt;
 &lt;p&gt;
   In Ruby, a hash is a data-storage class. It is similar to an array in that it can store multiple items. However, unlike in the array, the order of these items is unimportant. This means that we do not reference items within a hash by their ordinal location. Instead, all items in a hash are arranged into key/value pairs. Each key points to a corresponding value. For example, if I wanted to keep track of abbreviations for elements of the periodic table, I could create a hash. Each element would be a key with its corresponding abbreviation as the value:
-  &lt;pre&gt;&lt;code&gt;periodic_abbrevs = {&quot;Hydrogen&quot; =&amp;gt; &quot;H&quot;, &quot;Oxygen&quot; =&amp;gt; &quot;O&quot;, &quot;Carbon&quot; =&amp;gt; &quot;C&quot;, &quot;Zinc&quot; =&amp;gt; &quot;Zn&quot;,&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;code&gt;  &quot;Gold&quot; =&amp;gt; &quot;Au&quot;, &quot;Copper&quot; =&amp;gt; &quot;Cu&quot;, &quot;Magnesium&quot; =&amp;gt; &quot;Mg&quot;}&lt;/code&gt;&lt;/pre&gt;
+  &lt;pre&gt;&lt;code&gt;periodic_abbrevs = {&quot;Hydrogen&quot; =&gt; &quot;H&quot;, &quot;Oxygen&quot; =&gt; &quot;O&quot;, &quot;Carbon&quot; =&gt; &quot;C&quot;, &quot;Zinc&quot; =&gt; &quot;Zn&quot;,&lt;/code&gt;&lt;/pre&gt;
+  &lt;pre&gt;&lt;code&gt;  &quot;Gold&quot; =&gt; &quot;Au&quot;, &quot;Copper&quot; =&gt; &quot;Cu&quot;, &quot;Magnesium&quot; =&gt; &quot;Mg&quot;}&lt;/code&gt;&lt;/pre&gt;
   For all you science buffs out there, you have probably noticed that the elements in this hash are not presented in order according to the periodic table. This does not matter, as for our purposes, we will only need to access an abbreviation (value) by it's element name (key), not by where it falls on the table of elements. If we want to print to the console the abbreviation for Gold, we can do so thusly:
   &lt;pre&gt;&lt;code&gt;puts periodic_abbrevs[&quot;Gold&quot;]&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;samp&gt;=&amp;gt; Au&lt;/samp&gt;&lt;/pre&gt;
+  &lt;pre&gt;&lt;samp&gt;=&gt; Au&lt;/samp&gt;&lt;/pre&gt;
   You have probably also noticed that our hash is not exhaustive. There are still many more elements in the periodic table. Fortunately, we can easily add or remove key/value pairs to a hash. If we want our hash to include phosphorus, for instance, here's how we add it:
   &lt;pre&gt;&lt;code&gt;periodic_abbrevs[&quot;Phosphorus&quot;] = &quot;P&quot;&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;samp&gt;=&amp;gt; {&quot;Hydrogen&quot; =&amp;gt; &quot;H&quot;, &quot;Oxygen&quot; =&amp;gt; &quot;O&quot;, &quot;Carbon&quot; =&amp;gt; &quot;C&quot;, &quot;Zinc&quot; =&amp;gt; &quot;Zn&quot;, &quot;Gold&quot; =&amp;gt; &quot;Au&quot;,&lt;/samp&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;samp&gt;     &quot;Copper&quot; =&amp;gt; &quot;Cu&quot;, &quot;Magnesium&quot; =&amp;gt; &quot;Mg&quot;, &quot;Phosphorus&quot; =&amp;gt; &quot;P&quot;}&lt;/samp&gt;&lt;/pre&gt;
+  &lt;pre&gt;&lt;samp&gt;=&gt; {&quot;Hydrogen&quot; =&gt; &quot;H&quot;, &quot;Oxygen&quot; =&gt; &quot;O&quot;, &quot;Carbon&quot; =&gt; &quot;C&quot;, &quot;Zinc&quot; =&gt; &quot;Zn&quot;, &quot;Gold&quot; =&gt; &quot;Au&quot;,&lt;/samp&gt;&lt;/pre&gt;
+  &lt;pre&gt;&lt;samp&gt;     &quot;Copper&quot; =&gt; &quot;Cu&quot;, &quot;Magnesium&quot; =&gt; &quot;Mg&quot;, &quot;Phosphorus&quot; =&gt; &quot;P&quot;}&lt;/samp&gt;&lt;/pre&gt;
 &lt;/p&gt;
 &lt;p&gt;
   A hash is like an algebraic function in that multiple keys may point to equivalent values, but a single key cannot point to more than one value. In other words, each input must have only one output. To give another example, let's say that we are keeping track of the ages of children at a daycare. The following hash would work just fine:
@@ -891,7 +912,7 @@
   &lt;pre&gt;&lt;code&gt;var yoYoMa = new Musician(&quot;Yo-Yo Ma&quot;, &quot;cello&quot;, &quot;Classical&quot;)&lt;/code&gt;&lt;/pre&gt;
   Later, if I need to access the instrument Yo-Yo Ma plays, I can simply call for his instrument property:
   &lt;pre&gt;&lt;code&gt;yoYoMa.instrument;&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;samp&gt;=&amp;gt; cello&lt;/samp&gt;&lt;/pre&gt;
+  &lt;pre&gt;&lt;samp&gt;=&gt; cello&lt;/samp&gt;&lt;/pre&gt;
   Additionally, I can add and remove properties from an object. For instance, we can add a famous Yo-Yo Ma quote to the &lt;code&gt;yoYoMa&lt;/code&gt; object thusly:
   &lt;pre&gt;&lt;code&gt;yoYoMa.quote = &quot;I think one of the great things about being a musician&lt;/code&gt;&lt;/pre&gt;
   &lt;pre&gt;&lt;code&gt;  is that you never stop learning.&quot;&lt;/code&gt;&lt;/pre&gt;
