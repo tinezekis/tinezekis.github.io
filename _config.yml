@@ -16,8 +16,7 @@ medium_username:    "tinezekis"
 # facebook_username:  StartBootstrap
 
 # Add your google-analytics ID here to activate google analytics
-# Set up google analytics later
-# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   "UA-155085823-1"
 
 # Build settings
 markdown:           kramdown
