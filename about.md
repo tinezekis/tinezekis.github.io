@@ -5,7 +5,7 @@ edit_date: 2019-10-04
 background: '/imgs/tine-headshot.jpg'
 ---
 
-<p>Edited {{ page.edit_date | date: "%b %-d, %Y" }}</p>
+<p>Edited {{ page.edit_date | date: "%B %-d, %Y" }}</p>
 <p>
   Christine ('Tine) Zekis is Software Engineer and former math teach who believes that education is the greatest tool for social justice. She combines her education background and web development skill-set to champion Diversity, Equity, and Inclusion in the tech industry, while delivering clean, well-tested code.
 </p>
