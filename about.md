@@ -15,7 +15,8 @@ background: '/imgs/tine-headshot.jpg'
   are underrepresented in the industry.
 </p>
 <div>
-  <img width="75%" src="/imgs/tine_profile_1_full_color.jpg">
+  <img width="75%" src="/imgs/tine_profile_1_full_color.jpg" alt="Person with a bald head wearing glasses, hoop earrings, a green shirt and a black blazer, smiling slightly at the camera with arms folded" title="'Tine Zekis">
+  <figcaption>Photo by <a target="blank" href="https://www.noornaseer.com/">Noor Naseer Photography</a></figcaption>
 </div>
 <p>
   'Tine earned her BA from <a target="_blank" href="https://wustl.edu/">Washington University in St. Louis</a>
