@@ -1,11 +1,10 @@
 ---
 layout: page
 title: About 'Tine
-edit_date: 2021-11-02
+edit_date: 2021-11-10
 background: '/imgs/tine-headshot.jpg'
 ---
 
-<p>Edited {{ page.edit_date | date: "%B %-d, %Y" }}</p>
 <p>
   Christine ('Tine) Zekis is Keynote Speaker, Software Engineer, and former teacher. She combines
   her education background and software development skill-set to champion Diversity, Equity, and
@@ -14,7 +13,7 @@ background: '/imgs/tine-headshot.jpg'
   changing careers. She values mentoring and sponsoring other career changers, especially those who
   are underrepresented in the industry.
 </p>
-<div>
+<div class="text-center">
   <img width="75%" src="/imgs/tine_profile_1_full_color.jpg" alt="Person with a bald head wearing glasses, hoop earrings, a green shirt and a black blazer, smiling slightly at the camera with arms folded" title="'Tine Zekis">
   <figcaption>Photo by <a target="blank" href="https://www.noornaseer.com/">Noor Naseer Photography</a></figcaption>
 </div>
@@ -32,3 +31,4 @@ background: '/imgs/tine-headshot.jpg'
   taught swing dance in Chicago and spent a couple of seasons singing Alto II with the
   <a target="_blank" href="https://www.stlsymphony.org/en/musicians/choruses/stlsymphony-chorus/">St. Louis Symphony Chorus</a>.
 </p>
+<p>Edited {{ page.edit_date | date: "%B %-d, %Y" }}</p>
