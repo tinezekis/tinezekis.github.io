@@ -7,6 +7,12 @@ permalink: /contact/
 form: true
 ---
 
+<div class="text-center">
+  <p>
+    Background photo by <a target="_blank" href="https://unsplash.com/@milverton?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Milverton</a> on <a target="_blank" href="https://unsplash.com/s/photos/purple-sunset?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
+  </p>
+</div>
+
 <h3>Coming Soon!</h3>
 
 <p>This page is under construction. Please come back later if you would like to contact 'Tine</p>
@@ -15,10 +21,7 @@ form: true
 Uncomment this page after following the instructions for the workaround
 here: https://github.com/y7kim/agency-jekyll-theme/issues/14 -->
 
-<!-- <p>
-  Background photo by <a target="_blank" href="https://unsplash.com/@milverton?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Milverton</a> on <a target="_blank" href="https://unsplash.com/s/photos/purple-sunset?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
-</p>
-
+<!-- 
 <p>Want to get in touch? Fill out the form below to send me a message and I will get back to you as soon as possible!</p>
 <form name="sentMessage" id="contactForm" novalidate>
   <div class="control-group">

@@ -1,9 +1,9 @@
 title:              "'Tine Zekis"
 email:              "tinezekis@gmail.com"
 description: >- # this means to ignore newlines until "author:"
-  'Tine Zekis (she/her) is a software engineer, speaker, and advocate for
-  Diversity, Equity, and Inclusion in Tech. This site contains a collection
-  of content produced by 'Tine. Find her blogs, slides, videos, and more.
+  'Tine Zekis (she/her) is a keynote speaker, software engineer, and Imposter
+  Syndrome coach. This site contains a collection of content produced by 'Tine.
+  Find her blogs, slides, videos, and more.
 author:             "'Tine Zekis"
 baseurl:            "" # the subpath of your site, e.g. /blog
 url:                "https://tinezekis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
