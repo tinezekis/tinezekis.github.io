@@ -1,4 +1,387 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-10T23:18:01-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">‘Tine Zekis</title><subtitle>'Tine Zekis (she/her) is a keynote speaker, software engineer, and Imposter Syndrome coach. This site contains a collection of content produced by 'Tine. Find her blogs, slides, videos, and more.</subtitle><author><name>'Tine Zekis</name></author><entry><title type="html">Impostor Syndrome: Slaying the Beast</title><link href="http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-3.html" rel="alternate" type="text/html" title="Impostor Syndrome: Slaying the Beast" /><published>2019-12-20T00:00:00-06:00</published><updated>2019-12-20T00:00:00-06:00</updated><id>http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-3</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-3.html">&lt;p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-09T22:09:40-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">‘Tine Zekis</title><subtitle>'Tine Zekis (she/her) is a keynote speaker, software engineer, and Imposter Syndrome coach. This site contains a collection of content produced by 'Tine. Find her blogs, slides, videos, and more.</subtitle><author><name>'Tine Zekis</name></author><entry><title type="html">Diverisfy Your Hype Squad</title><link href="http://localhost:4000/blog/2021/12/09/diversify-your-hype-squad.html" rel="alternate" type="text/html" title="Diverisfy Your Hype Squad" /><published>2021-12-09T00:00:00-06:00</published><updated>2021-12-09T00:00:00-06:00</updated><id>http://localhost:4000/blog/2021/12/09/diversify-your-hype-squad</id><content type="html" xml:base="http://localhost:4000/blog/2021/12/09/diversify-your-hype-squad.html">&lt;div class=&quot;text-center&quot;&gt;
+  &lt;caption&gt;
+    Background photo by &lt;a target=&quot;blank&quot; href=&quot;https://unsplash.com/@verenayunita?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Verena Yunita Yapi&lt;/a&gt; on &lt;a target=&quot;blank&quot; href=&quot;https://unsplash.com/s/photos/hype?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;.
+  &lt;/caption&gt;
+&lt;/div&gt;
+  
+&lt;p&gt;
+  One of the most powerful weapons I use to fight off Imposter Syndrome is my &lt;em&gt;&lt;strong&gt;Hype Squad:&lt;/strong&gt;&lt;/em&gt;
+  those people who are in my corner, cheering me on, and reminding me that I deserve my success.
+&lt;/p&gt;
+
+&lt;p&gt;
+  When I &lt;a href=&quot;/talks.html&quot;&gt;speak about Imposter Syndrome&lt;/a&gt;, I always encourage my
+  audience to assemble their Hype Squads, to develop that support system for themselves. Beyond that,
+  I'm here now to tell you that you need to make sure your Hype Squad is &lt;em&gt;diverse&lt;/em&gt;. You need
+  different types of people, and different types of relationships, in order to experience the full
+  benefits of having a Hype Squad.
+&lt;/p&gt;
+
+&lt;p&gt;
+  Here's an example: my mom is my biggest fan, bar none. She is always the first to let me know how
+  talented she thinks I am, and how wonderful a job I did on a presentation (or a blog post...hi, Mom!).
+  It's very sweet. But when I'm trying to fight off Imposter Syndrome, encouragement from my mom doesn't
+  usually do the trick. She's completely biased, and wired to think I'm great even if my output is objectively mediocre.
+&lt;/p&gt;
+
+&lt;p&gt;
+  So, perhaps I'll turn to some old friends, and they'll tell me that they think I'm amazing at my
+  job. And then I remember that none of them have worked in my industry, or know what kinds of
+  lifelong hackers I'm comparing myself to.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Now, what?!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2&gt;Let's talk about the 3 kinds of people you need on your Hype Squad&lt;/h2&gt;
+
+&lt;br&gt;
+
+&lt;h3&gt;1. The Collaborator&lt;/h3&gt;
+
+&lt;img width=&quot;100%&quot; src=&quot;/imgs/20211209-diversify-your-hype-squad/lagos-techie-IgUR1iX0mqM-unsplash.jpg&quot; alt=&quot;Two people with brown skin and dark hair looking at a laptop and monitor together. One person is pointing to something on the screen, while the other appears to be listening intently.&quot;&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;caption&gt;
+    Photo by &lt;a href=&quot;https://unsplash.com/@heylagostechie?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Lagos Techie&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/collaboration?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;
+  &lt;/caption&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+  The Collaborator is a peer - a friend, teammate, or colleague - who is always ready to remind you
+  that you're capable and qualified. Ideally, this person works within your field, and knows what it
+  looks like - or &lt;em&gt;can&lt;/em&gt; look like - to be successful. You have similar or comparable goals,
+  and are able to compare notes when either of you overcomes a challenge. When you struggle, this
+  person &quot;gets it&quot; with little to no explanation needed. You support each other through difficulties
+  and celebrate one another's accomplishments.
+&lt;/p&gt;
+
+&lt;p&gt;
+  As a member of your Hype Squad, having seen you conquer countless obstacles, this person helps you
+  overcome Imposter Syndrome by reminding you of &lt;strong&gt;your resiliency and multitude of talents.&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;2. The Coach&lt;/h3&gt;
+
+&lt;img width=&quot;100%&quot; src=&quot;/imgs/20211209-diversify-your-hype-squad/christina-wocintechchat-com-lFntEHwQvi4-unsplash.jpg&quot; alt=&quot;A person with brown skin and long, dark hair in twists, smiling at the camera with arms folded in a confident pose.&quot;&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;caption&gt;
+    Photo by &lt;a href=&quot;https://unsplash.com/@wocintechchat?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Christina @ wocintechchat.com&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/businesswoman?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;
+  &lt;/caption&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+  The Coach is a mentor who excels in an area in which you aspire. This person can guide you, offer
+  advice, and help you to explore possible paths forward. They recognize your potential, and affirm
+  that you have the tools you need to be successful. And in the case where you might be lacking,
+  they can help you hone the skills you need in order to close the gaps.
+&lt;/p&gt;
+
+&lt;p&gt;
+  As a member of your Hype Squad, having succeeded in areas that interest you, this person helps you
+  overcome Imposter Syndrome by letting you know what's possible, and by reassuring you that
+  &lt;strong&gt;you have what it takes&lt;/strong&gt; to get to where they are.
+&lt;/p&gt;
+
+&lt;h3&gt;3. The Novice&lt;/h3&gt;
+
+&lt;img width=&quot;100%&quot; src=&quot;/imgs/20211209-diversify-your-hype-squad/mishary-alafasy-svnLIZ6jgCQ-unsplash.jpg&quot; alt=&quot;Two young children, one younger than the other, wearing white clothes and hats, sitting cross-legged and facing one another. They each have a small table in front of them with a large book on top. Both children are reading from the books.&quot;&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;caption&gt;
+    Photo by &lt;a href=&quot;https://unsplash.com/@alfasy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Mishary Alafasy&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/tutor?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;
+  &lt;/caption&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+  Conversely, The Novice is someone who seeks mentorship from you. This person is walking a path on
+  their journey that you have already traversed. Even if you don't think you have much experience
+  yet, always remember: &lt;em&gt;&lt;strong&gt;no matter where you are in your journey, there is always someone
+    behind you, wanting to get where you're going.&lt;/strong&gt;&lt;/em&gt; The Novice looks to you for advice,
+    giving you opportunities to reflect on your accomplishments, missteps, and learnings. Do not
+    underestimate the extent to which helping others can also help you. According to
+    &lt;a target=&quot;blank&quot; href=&quot;https://effectiviology.com/protege-effect-learn-by-teaching/&quot;&gt;the Protégé Effect&lt;/a&gt;,
+    an excellent way to solidify your own learning is to teach.
+&lt;/p&gt;
+
+&lt;p&gt;
+  As a member of your Hype Squad, having inquired about your story and asked for your advice, this
+  person helps you overcome Imposter Syndrome by providing you with opportunities to reflect on
+  &lt;strong&gt;your accomplishments and the pieces you put into place to achieve them.&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Bonus: The BFF&lt;/h3&gt;
+
+&lt;img width=&quot;100%&quot; src=&quot;/imgs/20211209-diversify-your-hype-squad/thought-catalog-23KdVfc395A-unsplash.jpg&quot; alt=&quot;Two people with dark brown skin and dark, curly hair, smiling on a beach. Each person has their arm around the other.&quot;&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+  &lt;caption&gt;
+    Photo by &lt;a href=&quot;https://unsplash.com/@thoughtcatalog?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Thought Catalog&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/women-best-friends?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;
+  &lt;/caption&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+  The BFF is, as you may have guessed, your Best Friend Forever. This person is a lifelong friend,
+  who is always on your team. Or maybe this person is your mom. The point is that they think the
+  world of you and they are happy to celebrate every victory, big or small. While this person may
+  not know all of the ins and outs of your field, they do know &lt;em&gt;&lt;strong&gt;you.&lt;/strong&gt;&lt;/em&gt; They
+  know the wonderful and unique qualities you bring to your relationships, and to all other aspects
+  of your life.
+&lt;/p&gt;
+
+&lt;p&gt;
+  As a member of your Hype Squad, this person helps you overcome Imposter Syndrome by
+  &lt;strong&gt;cheering you on, no matter what!&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;br&gt;
+
+&lt;p&gt;
+  As you build up your Hype Squad, make sure you're including The Collaborator, The Coach, and The
+  Novice. Try to connect with someone at work who may be working on similar goals to your own. Seek
+  out a mentor to guide you along your journey. And offer to mentor others…share your story with
+  those who are trying to follow in your footsteps. But, perhaps most importantly, remember that
+  all of these are two-way relationships.
+&lt;/p&gt;
+
+&lt;h2&gt;Ideally, every member of your Hype Squad has you as a member of theirs.&lt;/h2&gt;
+
+&lt;p&gt;
+  Choose these relationships wisely, because you will be called upon to hype these people up as well!
+&lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Background photo by Verena Yunita Yapi on Unsplash. One of the most powerful weapons I use to fight off Imposter Syndrome is my Hype Squad: those people who are in my corner, cheering me on, and reminding me that I deserve my success.</summary></entry><entry><title type="html">Impostor Syndrome: Slaying the Beast</title><link href="http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-2.html" rel="alternate" type="text/html" title="Impostor Syndrome: Slaying the Beast" /><published>2019-12-20T00:00:00-06:00</published><updated>2019-12-20T00:00:00-06:00</updated><id>http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-2</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-2.html">&lt;p&gt;
+  Welcome to Part II of a three-part series on &lt;em&gt;Impostor Syndrome: Slaying the Beast&lt;/em&gt;. In this section, we will go over some of the ways to recognize Impostor Syndrome. Here are the sections for the full series:
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-1.html&quot;&gt;Part I: Origin Story&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Part II: Warning Signs&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-3.html&quot;&gt;Part III: Fight Scene&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  This series is adapted from a talk I gave in 2019 at &lt;a target=&quot;blank&quot; href=&quot;https://www.musiccitytech.com/&quot;&gt;Music City Tech&lt;/a&gt;, &lt;a target=&quot;blank&quot; href=&quot;https://fallexperiment.com/creamcitycode/&quot;&gt;Cream City Code&lt;/a&gt;, and &lt;a target=&quot;blank&quot; href=&quot;https://techbash.com/&quot;&gt;TechBash&lt;/a&gt;. You can find the slides from that talk &lt;a target=&quot;blank&quot; href=&quot;https://speakerdeck.com/tinezekis/impostor-syndrome-slaying-the-beast&quot;&gt;here&lt;/a&gt;, and you can watch the talk I gave at TechBash &lt;a target=&quot;blank&quot; href=&quot;https://www.youtube.com/watch?v=1ABv-toKt2Y&quot;&gt;here&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;
+  If you have not yet read Part I of this series, you can check it out &lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-1.html&quot;&gt;here&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;h3&gt;Impostor Syndrome: Warning Signs&lt;/h3&gt;
+
+&lt;p&gt;
+  So, let's get into something practical. How can we recognize Impostor Syndrome when it starts to sneak up on us? Here are some &lt;a target=&quot;blank&quot; href=&quot;https://www.powerofpositivity.com/11-signs-you-have-impostor-syndrome-and-how-to-fix-it/&quot;&gt;warning signs&lt;/a&gt; that you might be experiencing Impostor Syndrome:
+&lt;/p&gt;
+
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-magnifying-glass.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, looking through a magnifying glass&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Magnifying Glass&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;You have difficulty accepting praise.&lt;/strong&gt; Lots of people feel weird getting compliments, but &quot;impostors&quot; have trouble even recognizing praise as valid.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;You're an over-worker.&lt;/strong&gt; Perhaps you keep working on a project until it is well beyond the level that the average person would deem acceptable.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;You feel the need to be the best.&lt;/strong&gt; Many &quot;impostors&quot; were high achieving as children, and as adults feel compelled to compete when they get into new situations and surround themselves with other smart and talented people.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;You're described as a perfectionist.&lt;/strong&gt; We &quot;impostors&quot; often hold ourselves to impossible standards of perfection. Anything short of this is considered a failure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The fear of failure can paralyze you.&lt;/strong&gt; Have you ever opted not to try something, in order to avoid the possibility of failing?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;You avoid showing confidence.&lt;/strong&gt; This one is more common among people from marginalized genders. This avoidance can come from a fear of appearing to overcompensate, or from a fear of not being able to measure up to expectations.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;You actually dread success.&lt;/strong&gt; Not feeling worthy of success can lead us to feelings of guilt when we are acknowledged or rewarded for it.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;You compare your struggles and obstacles to those of others.&lt;/strong&gt; Everyone compares themselves to others, but &quot;impostors&quot; constantly tell themselves that everyone else is getting by with fewer struggles in life than they are.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;You associate praise with charm over actual talent.&lt;/strong&gt; Because people with Impostor Syndrome are typically highly intelligent and good at interacting with others, people often find them charming. It is then easy to associate any praise from supervisors or other authority figures as a result of that charm, rather than of our intellect, talent, or hard work.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;You focus more on what you &lt;em&gt;haven't&lt;/em&gt; done.&lt;/strong&gt; Going back to that impossible standard of perfection, it's often difficult for us to meet our goals or milestones according to our own expectations. So instead of focusing on our many accomplishments, we tend to dwell on what we haven't done, or what we haven't done &quot;well enough&quot;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;You're convinced you aren't enough.&lt;/strong&gt; This last one tends to cut pretty deep. This is about that overwhelming feeling of being a fraud - the fear that one day, everyone will realize you're not everything they thought you were. It's the feeling that you are less qualified than your peers, or that you lucked into where you are today.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;
+  I also highly recommend the Impostor Syndrome quiz in &lt;a target=&quot;blank&quot; href=&quot;https://smile.amazon.com/Successful-without-Hurting-Mens-Feelings/dp/1449476074/ref=sr_1_1?crid=1L6111C5LIPFV&amp;keywords=how+to+be+successful+without+hurting+men%27s+feelings&amp;qid=1576890836&amp;sprefix=how+to+be+success%2Caps%2C159&amp;sr=8-1&quot;&gt;Sarah Cooper's &lt;em&gt;How to Be Successful without Hurting Men's Feelings: Non-threatening Leadership Strategies for Women&lt;/em&gt;&lt;/a&gt;. At the end of the chapter on Ambition, Cooper includes a 7-question quiz to determine whether you have &amp;mdash; or, perhaps more accurately, the extent to which you have &amp;mdash; Impostor Syndrome. Much like the rest of the book, it's very tongue in cheek. But it does shine a light on the kinds of thinking that you can begin to recognize as your Impostor Syndrome talking. And of course, recognizing these thought patterns is a vital first step in learning to disrupt them.
+&lt;/p&gt;
+
+&lt;p&gt;
+  I imagine that you are reading this because you have experienced some amount of Impostor Syndrome in your life. So, now what? It's time for our fight scene! (&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-3.html&quot;&gt;Part III: Fight Scene&lt;/a&gt;)
+&lt;/p&gt;
+
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-fight.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, holding up fists as if to fight&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Fight&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;
+  Thanks for reading! For the rest of the series, check out the other two posts:
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-1.html&quot;&gt;Part I: Origin Story&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-3.html&quot;&gt;Part III: Fight Scene&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Credits&lt;/h3&gt;
+
+&lt;p&gt;
+  Special thanks to all the people who made and released these awesome resources for free:
+  &lt;ol&gt;
+    &lt;li&gt;Images by &lt;a target=&quot;blank&quot; href=&quot;https://www.bitmoji.com/&quot;&gt;Bitmoji app&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://chrome.google.com/webstore/detail/bitmoji/bfgdeiadkckfbkeigkoncpdieiiefpig&quot;&gt;Chrome plugin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Impostor Syndrome definition paraphrased from &lt;a target=&quot;blank&quot; href=&quot;https://en.wikipedia.org/wiki/Impostor_syndrome&quot;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Research by &lt;a target=&quot;blank&quot; href=&quot;https://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf&quot;&gt;Pauline Rose Clance, Ph.D., ABPP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Kimberlé Crenshaw on intersectionality by &lt;a target=&quot;blank&quot; href=&quot;https://www.law.columbia.edu/pt-br/news/2017/06/kimberle-crenshaw-intersectionality&quot;&gt;Columbia Law School&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Quotations by &lt;a target=&quot;blank&quot; href=&quot;https://www.instyle.com/celebrity/stars-imposter-syndrome&quot;&gt;InStyle&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://www.goodreads.com/author/quotes/3503.Maya_Angelou?page=9&quot;&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Impostor Syndrome warning signs by &lt;a target=&quot;blank&quot; href=&quot;https://www.powerofpositivity.com/11-signs-you-have-impostor-syndrome-and-how-to-fix-it/&quot;&gt;Power of Positivity&lt;/a&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Welcome to Part II of a three-part series on Impostor Syndrome: Slaying the Beast. In this section, we will go over some of the ways to recognize Impostor Syndrome. Here are the sections for the full series: Part I: Origin Story Part II: Warning Signs Part III: Fight Scene</summary></entry><entry><title type="html">Impostor Syndrome: Slaying the Beast</title><link href="http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-1.html" rel="alternate" type="text/html" title="Impostor Syndrome: Slaying the Beast" /><published>2019-12-20T00:00:00-06:00</published><updated>2019-12-20T00:00:00-06:00</updated><id>http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-1</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-1.html">&lt;p&gt;
+  Welcome to Part I of a three-part series on &lt;em&gt;Impostor Syndrome: Slaying the Beast&lt;/em&gt;. In this section, we will discuss the origin of the term and the initial research carried out on Impostor Syndrome. Here are the sections for the full series:
+  &lt;ul&gt;
+    &lt;li&gt;Part I: Origin Story&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-2.html&quot;&gt;Part II: Warning Signs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-3.html&quot;&gt;Part III: Fight Scene&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  This series is adapted from a talk I gave in 2019 at &lt;a target=&quot;blank&quot; href=&quot;https://www.musiccitytech.com/&quot;&gt;Music City Tech&lt;/a&gt;, &lt;a target=&quot;blank&quot; href=&quot;https://fallexperiment.com/creamcitycode/&quot;&gt;Cream City Code&lt;/a&gt;, and &lt;a target=&quot;blank&quot; href=&quot;https://techbash.com/&quot;&gt;TechBash&lt;/a&gt;. You can find the slides from that talk &lt;a target=&quot;blank&quot; href=&quot;https://speakerdeck.com/tinezekis/impostor-syndrome-slaying-the-beast&quot;&gt;here&lt;/a&gt;, and you can watch the talk I gave at TechBash &lt;a target=&quot;blank&quot; href=&quot;https://www.youtube.com/watch?v=1ABv-toKt2Y&quot;&gt;here&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;
+  Oh, hey! My name is Christine Zekis, but I go by 'Tine Zekis, which also happens to be my Twitter handle (&lt;a target=&quot;blank&quot; href=&quot;https://twitter.com/tinezekis&quot;&gt;@tinezekis&lt;/a&gt;) My pronouns are she, her, hers, and I'm a software engineer…and an impostor.
+&lt;/p&gt;
+
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-hi.jpg&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, smiling and waving&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Hi!&lt;/p&gt;
+
+&lt;p&gt;
+  Before we dig in, let's start with a definition: what is Impostor Syndrome? Impostor Syndrome is a thought pattern in which a person diminishes their own accomplishments, often attributing their successes to luck. This is coupled with a fear of being discovered to be a &quot;fraud&quot;, or less capable than they appear to be. (Paraphrased from &lt;a target=&quot;blank&quot; href=&quot;https://en.wikipedia.org/wiki/Impostor_syndrome&quot;&gt;Wikipedia&lt;/a&gt;)
+&lt;/p&gt;
+
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-worst-trophy.png&quot; alt=&quot;Cartoon of a person with short, black and pink hair, smiling and holding up a trophy that says, You're the Worst&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: &quot;You're the Worst&quot; Trophy&lt;/p&gt;
+
+&lt;h3&gt;Origin Story&lt;/h3&gt;
+
+&lt;p&gt;
+  What we now call Impostor Syndrome was originally coined as the Impostor Phenomenon by two badass lady psychologists, Dr. Pauline Rose Clance and Dr. Suzanne Imes. In 1978, the conducted a &lt;a target=&quot;blank&quot; href=&quot;https://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf&quot;&gt;study&lt;/a&gt; on &amp;mdash; and coined the term &amp;mdash; the impostor phenomenon amongst high achieving women. Incidentally, they're both still practicing in Atlanta, helping people cope with Impostor Syndrome, among other things.
+&lt;/p&gt;
+
+&lt;h4&gt;The Study&lt;/h4&gt;
+
+&lt;p&gt;
+  Clance and Imes studied 150 highly successful women for 5 years. They defined highly successful women as PhDs in various specialties, respected professionals in their fields, and students with high honors at prestigious institutions. All of these women shared in common a lack of an internal sense of success. Many believed their accomplishments were a result of luck, and in some cases, they even believed they got into an excellent school or got a great job as a result of some clerical error.
+&lt;/p&gt;
+
+&lt;p&gt;
+  The study noted some clinical symptoms that commonly accompany the impostor phenomenon:
+  &lt;ul&gt;
+    &lt;li&gt;Lack of self-confidence&lt;/li&gt;
+    &lt;li&gt;Depression&lt;/li&gt;
+    &lt;li&gt;Frustration, caused by not being able to meet one's own impossibly high standards&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-gulp.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, looking anxious with the word GULP written underneath&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Gulp&lt;/p&gt;
+
+&lt;h4&gt;Contributing Factors&lt;/h4&gt;
+
+&lt;p&gt;
+  Clance and Imes highlighted four contributing factors to the phenomenon. They first outlined two common family dynamics their subjects experienced as children. The first was being considered &quot;sensitive&quot; or &quot;charming&quot; in comparison to an &quot;intelligent&quot; sibling. These children tended to work hard to prove themselves, but their families remained comparatively unimpressed. They constantly battled between seeking validation and fearing that their family was right after all.
+&lt;/p&gt;
+
+&lt;p&gt;
+  On the other hand, other subjects experienced the problem of being considered perfect, or effortlessly talented. These children were often told that they had an innate ability that allowed perfection to come easily to them. So, any difficulties the did encounter seemed to be evidence that they were actually none of what they had been propped up to be.
+&lt;/p&gt;
+
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-one-job.png&quot; alt=&quot;Cartoon of a trophy with a person smacking their hand against their head. The plaque reads: You Had One Job&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: &quot;You Had One Job&quot; Trophy&lt;/p&gt;
+
+&lt;p&gt;
+  The researchers also laid out some societal factors that could contribute to the impostor phenomenon. First, they cited research claiming that women are more likely than men to have low expectations for success in various tasks. Our expectations color our perception of our experiences. When a person experiences unexpected success, they are more likely to attribute that success to an external, temporary cause, such as luck. In contrast, a person who expects to succeed will typically associate that success with an internal, stable cause, such as ability. Additionally, research at the time pointed to low expectations of women by society at large. All of these factors converge and lead to what we now refer to as Impostor Syndrome.
+&lt;/p&gt;
+
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-i-suck.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, frowning and holding a sign that says, I suck&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: I Suck&lt;/p&gt;
+
+&lt;h4&gt;Therapies&lt;/h4&gt;
+
+&lt;p&gt;
+  Clance and Imes also recommended several therapies for their clients in the study:
+  &lt;ol&gt;
+    &lt;li&gt;One is &lt;strong&gt;group therapy&lt;/strong&gt; with other high achievers all experiencing the impostor phenomenon. First, this allows clients to see that they are not alone. Also, it may be easier to recognize the intelligence and talent in another person, and to then see the disconnect between reality and that person's self-perceptions.&lt;/li&gt;
+    &lt;li&gt;Another suggested therapy is to work on &lt;strong&gt;interrupting ritualistic behaviors&lt;/strong&gt;. For example, when studying for a test, try thinking, &quot;I will do well on this exam,&quot; instead of, &quot;I may fail.&quot; When our success is not consistently preceded by self-doubt, we can break the pattern of predicting failure.&lt;/li&gt;
+    &lt;li&gt;The next recommendation is to think of the people you believe you have fooled, then &lt;strong&gt;imagine confessing to them how you conned them&lt;/strong&gt;. Next, imagine out loud how each person would respond to this news. The authors gave a few examples: &quot;I did not give you an award in English because you charmed me. I did like you as a person, but I honored you for your outstanding work.&quot; &quot;I'm angry that you think I'm so stupid that I can't judge competence when I see it.&quot; &quot;I don't like your negating me and my opinions.&quot;&lt;/li&gt;
+    &lt;li&gt;Another recommended therapy is to &lt;strong&gt;keep a record of positive feedback&lt;/strong&gt;. It's important to note also how we deflect this feedback. Eventually, the work is to take in and accept positive feedback.&lt;/li&gt;
+    &lt;li&gt;The authors also suggest a role-playing exercise in which clients &lt;strong&gt;act out the opposite of their negative thoughts about themselves&lt;/strong&gt;. They are to take on a persona who is intelligent, talented, and accomplished, expressing these things out loud. Clance and Imes found that those most resistant to this exercise usually had the most to gain from it. They also noted that it can be especially helpful to do in a group therapy setting, in which the audience responds positively to the self-affirmation.&lt;/li&gt;
+    &lt;li&gt;Finally, Clance and Imes encouraged their clients to &lt;strong&gt;try being themselves&lt;/strong&gt; more often. The hope is to disrupt the behavior of doing or saying things we don't want to for the sole purpose of gaining approval from others. Clients are then surprised and encouraged when the catastrophic consequences they imagined never come. Additionally, they are more inclined to accept compliments as authentic when they are being their genuine selves.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Limitations&lt;/h4&gt;
+
+&lt;p&gt;
+  Of course, there were several limitations to the study as well. The authors noted that more study on men is needed. They found that men experienced the impostor phenomenon less frequently and less intensely than women. Speaking of which, there is also a large focus on the gender binary in the study. It discusses women in contrast to men, and acknowledges no other genders.
+&lt;/p&gt;
+
+&lt;p&gt;
+  It's also important to note that this study comes from a white perspective: both researchers and nearly all participants were white. In the late 1970s, there was a movement to study gender in psychology, and a movement to study race in psychology. But it wasn't until 1989 that the concept of &lt;a target=&quot;blank&quot; href=&quot;https://www.law.columbia.edu/pt-br/news/2017/06/kimberle-crenshaw-intersectionality&quot;&gt;intersectionality&lt;/a&gt; (the compounded effects of having multiple marginalized identities) came onto the scene. The term was coined by Kimberlé Williams Crenshaw.
+&lt;/p&gt;
+
+&lt;p&gt;
+  We also know now that Impostor Syndrome can impact people from all kinds of marginalized groups, be they trans, nonbinary, queer, Latinx, Muslim, neurodivergent, or disabled. And, of course, regardless of frequency or intensity, we know that white men with none of these marginalized identities can experience Impostor Syndrome as well.
+&lt;/p&gt;
+
+&lt;h3&gt;Normalizing Impostor Syndrome&lt;/h3&gt;
+
+&lt;p&gt;
+  Before we dig into how to fight off Impostor Syndrome, I think it's worthwhile to take a moment to normalize this experience. It's not just you!
+&lt;/p&gt;
+
+&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-same.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, pointing to themself. The text above says, Same&quot;&gt;
+&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Same&lt;/p&gt;
+
+&lt;p&gt;
+  In the name of normalization, I'll tell you a quick story about my own most recent experience with Impostor Syndrome. When I decided I wanted to start speaking at conferences, I read somewhere that you need to apply to ten conferences to get accepted to one. Of course, I assumed my conference acceptance rate would be lower than average. So, I applied to 40, hoping to get two.
+&lt;/p&gt;
+
+&lt;p&gt;
+  But instead of having half the rate I'd read about, my acceptance rate was &lt;em&gt;double!&lt;/em&gt; In fact, I had to turn down other conferences in order to give my talk on Impostor Syndrome. And so, thanks to my own Impostor Syndrome, I'm an overbooked pregnant lady! I'm not sure if you can tell as you're reading this, but I'm exhausted!
+&lt;/p&gt;
+
+&lt;p&gt;
+  Beyond my own personal story, Impostor Syndrome affects people at &lt;em&gt;all&lt;/em&gt; levels of their careers. CEOs are just as likely to experience Impostor Syndrome as individual contributors. It's important to remember that &lt;strong&gt;experiencing Impostor Syndrome is not at all an indication that a person is untalented or undeserving of their successes.&lt;/strong&gt; In fact, there are lots of notable badasses who have described their own Impostor Syndrome publicly. Here are some quotes from just a few of them:
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+  You will never climb career mountain and get to the top and shout, &quot;I made it!&quot; You will rarely feel done or complete or even successful. Most people I know struggle with that complicated soup of feeling slighted on one hand and like a total fraud on the other.
+&lt;/blockquote&gt;
+&lt;p class=&quot;blockquote-footer&quot;&gt;Amy Poehler, decorated actress, director, producer, and writer (&lt;a target=&quot;blank&quot; href=&quot;https://www.instyle.com/celebrity/stars-imposter-syndrome&quot;&gt;InStyle&lt;/a&gt;)&lt;/p&gt;
+
+&lt;blockquote&gt;
+  No matter what we've done, there comes a point where you think, &quot;How did I get here? When are they going to discover that I am, in fact, a fraud and take everything away from me?&quot;
+&lt;/blockquote&gt;
+&lt;p class=&quot;blockquote-footer&quot;&gt;Tom Hanks, award-winning actor and director (&lt;a target=&quot;blank&quot; href=&quot;https://www.instyle.com/celebrity/stars-imposter-syndrome&quot;&gt;InStyle&lt;/a&gt;)&lt;/p&gt;
+
+&lt;blockquote&gt;
+  I have written eleven books, but each time I think, &quot;Uh oh, they're going to find out now. I've run a game on everybody, and they're going to find me out.&quot;
+&lt;/blockquote&gt;
+&lt;p class=&quot;blockquote-footer&quot;&gt;Maya Angelou, author and Nobel Laureate (&lt;a target=&quot;blank&quot; href=&quot;https://www.goodreads.com/author/quotes/3503.Maya_Angelou?page=9&quot;&gt;Goodreads&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;
+  Now that you know you're not alone, hopefully you're ready to start taking Impostor Syndrome head on. In the rest of the series, we'll talk about ways to recognize when Impostor Syndrome may be sneaking up on us, and perhaps most importantly, how to fight it!
+&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;
+  Thanks for reading! For the rest of the series, check out the next two posts:
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-2.html&quot;&gt;Part II: Warning Signs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-3.html&quot;&gt;Part III: Fight Scene&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Credits&lt;/h3&gt;
+
+&lt;p&gt;
+  Special thanks to all the people who made and released these awesome resources for free:
+  &lt;ol&gt;
+    &lt;li&gt;Images by &lt;a target=&quot;blank&quot; href=&quot;https://www.bitmoji.com/&quot;&gt;Bitmoji app&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://chrome.google.com/webstore/detail/bitmoji/bfgdeiadkckfbkeigkoncpdieiiefpig&quot;&gt;Chrome plugin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Impostor Syndrome definition paraphrased from &lt;a target=&quot;blank&quot; href=&quot;https://en.wikipedia.org/wiki/Impostor_syndrome&quot;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Research by &lt;a target=&quot;blank&quot; href=&quot;https://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf&quot;&gt;Pauline Rose Clance, Ph.D., ABPP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Kimberlé Crenshaw on intersectionality by &lt;a target=&quot;blank&quot; href=&quot;https://www.law.columbia.edu/pt-br/news/2017/06/kimberle-crenshaw-intersectionality&quot;&gt;Columbia Law School&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Quotations by &lt;a target=&quot;blank&quot; href=&quot;https://www.instyle.com/celebrity/stars-imposter-syndrome&quot;&gt;InStyle&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://www.goodreads.com/author/quotes/3503.Maya_Angelou?page=9&quot;&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Welcome to Part I of a three-part series on Impostor Syndrome: Slaying the Beast. In this section, we will discuss the origin of the term and the initial research carried out on Impostor Syndrome. Here are the sections for the full series: Part I: Origin Story Part II: Warning Signs Part III: Fight Scene</summary></entry><entry><title type="html">Impostor Syndrome: Slaying the Beast</title><link href="http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-3.html" rel="alternate" type="text/html" title="Impostor Syndrome: Slaying the Beast" /><published>2019-12-20T00:00:00-06:00</published><updated>2019-12-20T00:00:00-06:00</updated><id>http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-3</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-3.html">&lt;p&gt;
   Welcome to Part III of a three-part series on &lt;em&gt;Impostor Syndrome: Slaying the Beast&lt;/em&gt;. In this section, we will go over ways to fight off Impostor Syndrome. Here are the sections for the full series:
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-1.html&quot;&gt;Part I: Origin Story&lt;/a&gt;&lt;/li&gt;
@@ -170,244 +553,7 @@
     &lt;li&gt;Quotations by &lt;a target=&quot;blank&quot; href=&quot;https://www.instyle.com/celebrity/stars-imposter-syndrome&quot;&gt;InStyle&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://www.goodreads.com/author/quotes/3503.Maya_Angelou?page=9&quot;&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;Impostor Syndrome warning signs by &lt;a target=&quot;blank&quot; href=&quot;https://www.powerofpositivity.com/11-signs-you-have-impostor-syndrome-and-how-to-fix-it/&quot;&gt;Power of Positivity&lt;/a&gt;&lt;/li&gt;
   &lt;/ol&gt;
-&lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Welcome to Part III of a three-part series on Impostor Syndrome: Slaying the Beast. In this section, we will go over ways to fight off Impostor Syndrome. Here are the sections for the full series: Part I: Origin Story Part II: Warning Signs Part III: Fight Scene</summary></entry><entry><title type="html">Impostor Syndrome: Slaying the Beast</title><link href="http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-1.html" rel="alternate" type="text/html" title="Impostor Syndrome: Slaying the Beast" /><published>2019-12-20T00:00:00-06:00</published><updated>2019-12-20T00:00:00-06:00</updated><id>http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-1</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-1.html">&lt;p&gt;
-  Welcome to Part I of a three-part series on &lt;em&gt;Impostor Syndrome: Slaying the Beast&lt;/em&gt;. In this section, we will discuss the origin of the term and the initial research carried out on Impostor Syndrome. Here are the sections for the full series:
-  &lt;ul&gt;
-    &lt;li&gt;Part I: Origin Story&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-2.html&quot;&gt;Part II: Warning Signs&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-3.html&quot;&gt;Part III: Fight Scene&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  This series is adapted from a talk I gave in 2019 at &lt;a target=&quot;blank&quot; href=&quot;https://www.musiccitytech.com/&quot;&gt;Music City Tech&lt;/a&gt;, &lt;a target=&quot;blank&quot; href=&quot;https://fallexperiment.com/creamcitycode/&quot;&gt;Cream City Code&lt;/a&gt;, and &lt;a target=&quot;blank&quot; href=&quot;https://techbash.com/&quot;&gt;TechBash&lt;/a&gt;. You can find the slides from that talk &lt;a target=&quot;blank&quot; href=&quot;https://speakerdeck.com/tinezekis/impostor-syndrome-slaying-the-beast&quot;&gt;here&lt;/a&gt;, and you can watch the talk I gave at TechBash &lt;a target=&quot;blank&quot; href=&quot;https://www.youtube.com/watch?v=1ABv-toKt2Y&quot;&gt;here&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;
-  Oh, hey! My name is Christine Zekis, but I go by 'Tine Zekis, which also happens to be my Twitter handle (&lt;a target=&quot;blank&quot; href=&quot;https://twitter.com/tinezekis&quot;&gt;@tinezekis&lt;/a&gt;) My pronouns are she, her, hers, and I'm a software engineer…and an impostor.
-&lt;/p&gt;
-
-&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-hi.jpg&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, smiling and waving&quot;&gt;
-&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Hi!&lt;/p&gt;
-
-&lt;p&gt;
-  Before we dig in, let's start with a definition: what is Impostor Syndrome? Impostor Syndrome is a thought pattern in which a person diminishes their own accomplishments, often attributing their successes to luck. This is coupled with a fear of being discovered to be a &quot;fraud&quot;, or less capable than they appear to be. (Paraphrased from &lt;a target=&quot;blank&quot; href=&quot;https://en.wikipedia.org/wiki/Impostor_syndrome&quot;&gt;Wikipedia&lt;/a&gt;)
-&lt;/p&gt;
-
-&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-worst-trophy.png&quot; alt=&quot;Cartoon of a person with short, black and pink hair, smiling and holding up a trophy that says, You're the Worst&quot;&gt;
-&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: &quot;You're the Worst&quot; Trophy&lt;/p&gt;
-
-&lt;h3&gt;Origin Story&lt;/h3&gt;
-
-&lt;p&gt;
-  What we now call Impostor Syndrome was originally coined as the Impostor Phenomenon by two badass lady psychologists, Dr. Pauline Rose Clance and Dr. Suzanne Imes. In 1978, the conducted a &lt;a target=&quot;blank&quot; href=&quot;https://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf&quot;&gt;study&lt;/a&gt; on &amp;mdash; and coined the term &amp;mdash; the impostor phenomenon amongst high achieving women. Incidentally, they're both still practicing in Atlanta, helping people cope with Impostor Syndrome, among other things.
-&lt;/p&gt;
-
-&lt;h4&gt;The Study&lt;/h4&gt;
-
-&lt;p&gt;
-  Clance and Imes studied 150 highly successful women for 5 years. They defined highly successful women as PhDs in various specialties, respected professionals in their fields, and students with high honors at prestigious institutions. All of these women shared in common a lack of an internal sense of success. Many believed their accomplishments were a result of luck, and in some cases, they even believed they got into an excellent school or got a great job as a result of some clerical error.
-&lt;/p&gt;
-
-&lt;p&gt;
-  The study noted some clinical symptoms that commonly accompany the impostor phenomenon:
-  &lt;ul&gt;
-    &lt;li&gt;Lack of self-confidence&lt;/li&gt;
-    &lt;li&gt;Depression&lt;/li&gt;
-    &lt;li&gt;Frustration, caused by not being able to meet one's own impossibly high standards&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/p&gt;
-
-&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-gulp.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, looking anxious with the word GULP written underneath&quot;&gt;
-&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Gulp&lt;/p&gt;
-
-&lt;h4&gt;Contributing Factors&lt;/h4&gt;
-
-&lt;p&gt;
-  Clance and Imes highlighted four contributing factors to the phenomenon. They first outlined two common family dynamics their subjects experienced as children. The first was being considered &quot;sensitive&quot; or &quot;charming&quot; in comparison to an &quot;intelligent&quot; sibling. These children tended to work hard to prove themselves, but their families remained comparatively unimpressed. They constantly battled between seeking validation and fearing that their family was right after all.
-&lt;/p&gt;
-
-&lt;p&gt;
-  On the other hand, other subjects experienced the problem of being considered perfect, or effortlessly talented. These children were often told that they had an innate ability that allowed perfection to come easily to them. So, any difficulties the did encounter seemed to be evidence that they were actually none of what they had been propped up to be.
-&lt;/p&gt;
-
-&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-one-job.png&quot; alt=&quot;Cartoon of a trophy with a person smacking their hand against their head. The plaque reads: You Had One Job&quot;&gt;
-&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: &quot;You Had One Job&quot; Trophy&lt;/p&gt;
-
-&lt;p&gt;
-  The researchers also laid out some societal factors that could contribute to the impostor phenomenon. First, they cited research claiming that women are more likely than men to have low expectations for success in various tasks. Our expectations color our perception of our experiences. When a person experiences unexpected success, they are more likely to attribute that success to an external, temporary cause, such as luck. In contrast, a person who expects to succeed will typically associate that success with an internal, stable cause, such as ability. Additionally, research at the time pointed to low expectations of women by society at large. All of these factors converge and lead to what we now refer to as Impostor Syndrome.
-&lt;/p&gt;
-
-&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-i-suck.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, frowning and holding a sign that says, I suck&quot;&gt;
-&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: I Suck&lt;/p&gt;
-
-&lt;h4&gt;Therapies&lt;/h4&gt;
-
-&lt;p&gt;
-  Clance and Imes also recommended several therapies for their clients in the study:
-  &lt;ol&gt;
-    &lt;li&gt;One is &lt;strong&gt;group therapy&lt;/strong&gt; with other high achievers all experiencing the impostor phenomenon. First, this allows clients to see that they are not alone. Also, it may be easier to recognize the intelligence and talent in another person, and to then see the disconnect between reality and that person's self-perceptions.&lt;/li&gt;
-    &lt;li&gt;Another suggested therapy is to work on &lt;strong&gt;interrupting ritualistic behaviors&lt;/strong&gt;. For example, when studying for a test, try thinking, &quot;I will do well on this exam,&quot; instead of, &quot;I may fail.&quot; When our success is not consistently preceded by self-doubt, we can break the pattern of predicting failure.&lt;/li&gt;
-    &lt;li&gt;The next recommendation is to think of the people you believe you have fooled, then &lt;strong&gt;imagine confessing to them how you conned them&lt;/strong&gt;. Next, imagine out loud how each person would respond to this news. The authors gave a few examples: &quot;I did not give you an award in English because you charmed me. I did like you as a person, but I honored you for your outstanding work.&quot; &quot;I'm angry that you think I'm so stupid that I can't judge competence when I see it.&quot; &quot;I don't like your negating me and my opinions.&quot;&lt;/li&gt;
-    &lt;li&gt;Another recommended therapy is to &lt;strong&gt;keep a record of positive feedback&lt;/strong&gt;. It's important to note also how we deflect this feedback. Eventually, the work is to take in and accept positive feedback.&lt;/li&gt;
-    &lt;li&gt;The authors also suggest a role-playing exercise in which clients &lt;strong&gt;act out the opposite of their negative thoughts about themselves&lt;/strong&gt;. They are to take on a persona who is intelligent, talented, and accomplished, expressing these things out loud. Clance and Imes found that those most resistant to this exercise usually had the most to gain from it. They also noted that it can be especially helpful to do in a group therapy setting, in which the audience responds positively to the self-affirmation.&lt;/li&gt;
-    &lt;li&gt;Finally, Clance and Imes encouraged their clients to &lt;strong&gt;try being themselves&lt;/strong&gt; more often. The hope is to disrupt the behavior of doing or saying things we don't want to for the sole purpose of gaining approval from others. Clients are then surprised and encouraged when the catastrophic consequences they imagined never come. Additionally, they are more inclined to accept compliments as authentic when they are being their genuine selves.&lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Limitations&lt;/h4&gt;
-
-&lt;p&gt;
-  Of course, there were several limitations to the study as well. The authors noted that more study on men is needed. They found that men experienced the impostor phenomenon less frequently and less intensely than women. Speaking of which, there is also a large focus on the gender binary in the study. It discusses women in contrast to men, and acknowledges no other genders.
-&lt;/p&gt;
-
-&lt;p&gt;
-  It's also important to note that this study comes from a white perspective: both researchers and nearly all participants were white. In the late 1970s, there was a movement to study gender in psychology, and a movement to study race in psychology. But it wasn't until 1989 that the concept of &lt;a target=&quot;blank&quot; href=&quot;https://www.law.columbia.edu/pt-br/news/2017/06/kimberle-crenshaw-intersectionality&quot;&gt;intersectionality&lt;/a&gt; (the compounded effects of having multiple marginalized identities) came onto the scene. The term was coined by Kimberlé Williams Crenshaw.
-&lt;/p&gt;
-
-&lt;p&gt;
-  We also know now that Impostor Syndrome can impact people from all kinds of marginalized groups, be they trans, nonbinary, queer, Latinx, Muslim, neurodivergent, or disabled. And, of course, regardless of frequency or intensity, we know that white men with none of these marginalized identities can experience Impostor Syndrome as well.
-&lt;/p&gt;
-
-&lt;h3&gt;Normalizing Impostor Syndrome&lt;/h3&gt;
-
-&lt;p&gt;
-  Before we dig into how to fight off Impostor Syndrome, I think it's worthwhile to take a moment to normalize this experience. It's not just you!
-&lt;/p&gt;
-
-&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-same.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, pointing to themself. The text above says, Same&quot;&gt;
-&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Same&lt;/p&gt;
-
-&lt;p&gt;
-  In the name of normalization, I'll tell you a quick story about my own most recent experience with Impostor Syndrome. When I decided I wanted to start speaking at conferences, I read somewhere that you need to apply to ten conferences to get accepted to one. Of course, I assumed my conference acceptance rate would be lower than average. So, I applied to 40, hoping to get two.
-&lt;/p&gt;
-
-&lt;p&gt;
-  But instead of having half the rate I'd read about, my acceptance rate was &lt;em&gt;double!&lt;/em&gt; In fact, I had to turn down other conferences in order to give my talk on Impostor Syndrome. And so, thanks to my own Impostor Syndrome, I'm an overbooked pregnant lady! I'm not sure if you can tell as you're reading this, but I'm exhausted!
-&lt;/p&gt;
-
-&lt;p&gt;
-  Beyond my own personal story, Impostor Syndrome affects people at &lt;em&gt;all&lt;/em&gt; levels of their careers. CEOs are just as likely to experience Impostor Syndrome as individual contributors. It's important to remember that &lt;strong&gt;experiencing Impostor Syndrome is not at all an indication that a person is untalented or undeserving of their successes.&lt;/strong&gt; In fact, there are lots of notable badasses who have described their own Impostor Syndrome publicly. Here are some quotes from just a few of them:
-&lt;/p&gt;
-
-&lt;blockquote&gt;
-  You will never climb career mountain and get to the top and shout, &quot;I made it!&quot; You will rarely feel done or complete or even successful. Most people I know struggle with that complicated soup of feeling slighted on one hand and like a total fraud on the other.
-&lt;/blockquote&gt;
-&lt;p class=&quot;blockquote-footer&quot;&gt;Amy Poehler, decorated actress, director, producer, and writer (&lt;a target=&quot;blank&quot; href=&quot;https://www.instyle.com/celebrity/stars-imposter-syndrome&quot;&gt;InStyle&lt;/a&gt;)&lt;/p&gt;
-
-&lt;blockquote&gt;
-  No matter what we've done, there comes a point where you think, &quot;How did I get here? When are they going to discover that I am, in fact, a fraud and take everything away from me?&quot;
-&lt;/blockquote&gt;
-&lt;p class=&quot;blockquote-footer&quot;&gt;Tom Hanks, award-winning actor and director (&lt;a target=&quot;blank&quot; href=&quot;https://www.instyle.com/celebrity/stars-imposter-syndrome&quot;&gt;InStyle&lt;/a&gt;)&lt;/p&gt;
-
-&lt;blockquote&gt;
-  I have written eleven books, but each time I think, &quot;Uh oh, they're going to find out now. I've run a game on everybody, and they're going to find me out.&quot;
-&lt;/blockquote&gt;
-&lt;p class=&quot;blockquote-footer&quot;&gt;Maya Angelou, author and Nobel Laureate (&lt;a target=&quot;blank&quot; href=&quot;https://www.goodreads.com/author/quotes/3503.Maya_Angelou?page=9&quot;&gt;Goodreads&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;
-  Now that you know you're not alone, hopefully you're ready to start taking Impostor Syndrome head on. In the rest of the series, we'll talk about ways to recognize when Impostor Syndrome may be sneaking up on us, and perhaps most importantly, how to fight it!
-&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;
-  Thanks for reading! For the rest of the series, check out the next two posts:
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-2.html&quot;&gt;Part II: Warning Signs&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-3.html&quot;&gt;Part III: Fight Scene&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/p&gt;
-
-&lt;h3&gt;Credits&lt;/h3&gt;
-
-&lt;p&gt;
-  Special thanks to all the people who made and released these awesome resources for free:
-  &lt;ol&gt;
-    &lt;li&gt;Images by &lt;a target=&quot;blank&quot; href=&quot;https://www.bitmoji.com/&quot;&gt;Bitmoji app&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://chrome.google.com/webstore/detail/bitmoji/bfgdeiadkckfbkeigkoncpdieiiefpig&quot;&gt;Chrome plugin&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Impostor Syndrome definition paraphrased from &lt;a target=&quot;blank&quot; href=&quot;https://en.wikipedia.org/wiki/Impostor_syndrome&quot;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Research by &lt;a target=&quot;blank&quot; href=&quot;https://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf&quot;&gt;Pauline Rose Clance, Ph.D., ABPP&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Kimberlé Crenshaw on intersectionality by &lt;a target=&quot;blank&quot; href=&quot;https://www.law.columbia.edu/pt-br/news/2017/06/kimberle-crenshaw-intersectionality&quot;&gt;Columbia Law School&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Quotations by &lt;a target=&quot;blank&quot; href=&quot;https://www.instyle.com/celebrity/stars-imposter-syndrome&quot;&gt;InStyle&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://www.goodreads.com/author/quotes/3503.Maya_Angelou?page=9&quot;&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Welcome to Part I of a three-part series on Impostor Syndrome: Slaying the Beast. In this section, we will discuss the origin of the term and the initial research carried out on Impostor Syndrome. Here are the sections for the full series: Part I: Origin Story Part II: Warning Signs Part III: Fight Scene</summary></entry><entry><title type="html">Impostor Syndrome: Slaying the Beast</title><link href="http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-2.html" rel="alternate" type="text/html" title="Impostor Syndrome: Slaying the Beast" /><published>2019-12-20T00:00:00-06:00</published><updated>2019-12-20T00:00:00-06:00</updated><id>http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-2</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/20/impostor-syndrome-part-2.html">&lt;p&gt;
-  Welcome to Part II of a three-part series on &lt;em&gt;Impostor Syndrome: Slaying the Beast&lt;/em&gt;. In this section, we will go over some of the ways to recognize Impostor Syndrome. Here are the sections for the full series:
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-1.html&quot;&gt;Part I: Origin Story&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Part II: Warning Signs&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-3.html&quot;&gt;Part III: Fight Scene&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  This series is adapted from a talk I gave in 2019 at &lt;a target=&quot;blank&quot; href=&quot;https://www.musiccitytech.com/&quot;&gt;Music City Tech&lt;/a&gt;, &lt;a target=&quot;blank&quot; href=&quot;https://fallexperiment.com/creamcitycode/&quot;&gt;Cream City Code&lt;/a&gt;, and &lt;a target=&quot;blank&quot; href=&quot;https://techbash.com/&quot;&gt;TechBash&lt;/a&gt;. You can find the slides from that talk &lt;a target=&quot;blank&quot; href=&quot;https://speakerdeck.com/tinezekis/impostor-syndrome-slaying-the-beast&quot;&gt;here&lt;/a&gt;, and you can watch the talk I gave at TechBash &lt;a target=&quot;blank&quot; href=&quot;https://www.youtube.com/watch?v=1ABv-toKt2Y&quot;&gt;here&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;
-  If you have not yet read Part I of this series, you can check it out &lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-1.html&quot;&gt;here&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;h3&gt;Impostor Syndrome: Warning Signs&lt;/h3&gt;
-
-&lt;p&gt;
-  So, let's get into something practical. How can we recognize Impostor Syndrome when it starts to sneak up on us? Here are some &lt;a target=&quot;blank&quot; href=&quot;https://www.powerofpositivity.com/11-signs-you-have-impostor-syndrome-and-how-to-fix-it/&quot;&gt;warning signs&lt;/a&gt; that you might be experiencing Impostor Syndrome:
-&lt;/p&gt;
-
-&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-magnifying-glass.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, looking through a magnifying glass&quot;&gt;
-&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Magnifying Glass&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;You have difficulty accepting praise.&lt;/strong&gt; Lots of people feel weird getting compliments, but &quot;impostors&quot; have trouble even recognizing praise as valid.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;You're an over-worker.&lt;/strong&gt; Perhaps you keep working on a project until it is well beyond the level that the average person would deem acceptable.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;You feel the need to be the best.&lt;/strong&gt; Many &quot;impostors&quot; were high achieving as children, and as adults feel compelled to compete when they get into new situations and surround themselves with other smart and talented people.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;You're described as a perfectionist.&lt;/strong&gt; We &quot;impostors&quot; often hold ourselves to impossible standards of perfection. Anything short of this is considered a failure.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;The fear of failure can paralyze you.&lt;/strong&gt; Have you ever opted not to try something, in order to avoid the possibility of failing?&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;You avoid showing confidence.&lt;/strong&gt; This one is more common among people from marginalized genders. This avoidance can come from a fear of appearing to overcompensate, or from a fear of not being able to measure up to expectations.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;You actually dread success.&lt;/strong&gt; Not feeling worthy of success can lead us to feelings of guilt when we are acknowledged or rewarded for it.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;You compare your struggles and obstacles to those of others.&lt;/strong&gt; Everyone compares themselves to others, but &quot;impostors&quot; constantly tell themselves that everyone else is getting by with fewer struggles in life than they are.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;You associate praise with charm over actual talent.&lt;/strong&gt; Because people with Impostor Syndrome are typically highly intelligent and good at interacting with others, people often find them charming. It is then easy to associate any praise from supervisors or other authority figures as a result of that charm, rather than of our intellect, talent, or hard work.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;You focus more on what you &lt;em&gt;haven't&lt;/em&gt; done.&lt;/strong&gt; Going back to that impossible standard of perfection, it's often difficult for us to meet our goals or milestones according to our own expectations. So instead of focusing on our many accomplishments, we tend to dwell on what we haven't done, or what we haven't done &quot;well enough&quot;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;You're convinced you aren't enough.&lt;/strong&gt; This last one tends to cut pretty deep. This is about that overwhelming feeling of being a fraud - the fear that one day, everyone will realize you're not everything they thought you were. It's the feeling that you are less qualified than your peers, or that you lucked into where you are today.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;
-  I also highly recommend the Impostor Syndrome quiz in &lt;a target=&quot;blank&quot; href=&quot;https://smile.amazon.com/Successful-without-Hurting-Mens-Feelings/dp/1449476074/ref=sr_1_1?crid=1L6111C5LIPFV&amp;keywords=how+to+be+successful+without+hurting+men%27s+feelings&amp;qid=1576890836&amp;sprefix=how+to+be+success%2Caps%2C159&amp;sr=8-1&quot;&gt;Sarah Cooper's &lt;em&gt;How to Be Successful without Hurting Men's Feelings: Non-threatening Leadership Strategies for Women&lt;/em&gt;&lt;/a&gt;. At the end of the chapter on Ambition, Cooper includes a 7-question quiz to determine whether you have &amp;mdash; or, perhaps more accurately, the extent to which you have &amp;mdash; Impostor Syndrome. Much like the rest of the book, it's very tongue in cheek. But it does shine a light on the kinds of thinking that you can begin to recognize as your Impostor Syndrome talking. And of course, recognizing these thought patterns is a vital first step in learning to disrupt them.
-&lt;/p&gt;
-
-&lt;p&gt;
-  I imagine that you are reading this because you have experienced some amount of Impostor Syndrome in your life. So, now what? It's time for our fight scene! (&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-3.html&quot;&gt;Part III: Fight Scene&lt;/a&gt;)
-&lt;/p&gt;
-
-&lt;img width=&quot;75%&quot; src=&quot;/imgs/20191220-impostor-syndrome/bitmoji-fight.png&quot; alt=&quot;Cartoon of a person with brown skin and short, black and pink hair, holding up fists as if to fight&quot;&gt;
-&lt;p class=&quot;figure-caption&quot;&gt;Bitmoji: Fight&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;
-  Thanks for reading! For the rest of the series, check out the other two posts:
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-1.html&quot;&gt;Part I: Origin Story&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;/blog/2019/12/20/impostor-syndrome-part-3.html&quot;&gt;Part III: Fight Scene&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/p&gt;
-
-&lt;h3&gt;Credits&lt;/h3&gt;
-
-&lt;p&gt;
-  Special thanks to all the people who made and released these awesome resources for free:
-  &lt;ol&gt;
-    &lt;li&gt;Images by &lt;a target=&quot;blank&quot; href=&quot;https://www.bitmoji.com/&quot;&gt;Bitmoji app&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://chrome.google.com/webstore/detail/bitmoji/bfgdeiadkckfbkeigkoncpdieiiefpig&quot;&gt;Chrome plugin&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Impostor Syndrome definition paraphrased from &lt;a target=&quot;blank&quot; href=&quot;https://en.wikipedia.org/wiki/Impostor_syndrome&quot;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Research by &lt;a target=&quot;blank&quot; href=&quot;https://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf&quot;&gt;Pauline Rose Clance, Ph.D., ABPP&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Kimberlé Crenshaw on intersectionality by &lt;a target=&quot;blank&quot; href=&quot;https://www.law.columbia.edu/pt-br/news/2017/06/kimberle-crenshaw-intersectionality&quot;&gt;Columbia Law School&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Quotations by &lt;a target=&quot;blank&quot; href=&quot;https://www.instyle.com/celebrity/stars-imposter-syndrome&quot;&gt;InStyle&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://www.goodreads.com/author/quotes/3503.Maya_Angelou?page=9&quot;&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Impostor Syndrome warning signs by &lt;a target=&quot;blank&quot; href=&quot;https://www.powerofpositivity.com/11-signs-you-have-impostor-syndrome-and-how-to-fix-it/&quot;&gt;Power of Positivity&lt;/a&gt;&lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Welcome to Part II of a three-part series on Impostor Syndrome: Slaying the Beast. In this section, we will go over some of the ways to recognize Impostor Syndrome. Here are the sections for the full series: Part I: Origin Story Part II: Warning Signs Part III: Fight Scene</summary></entry><entry><title type="html">Curriculum to Command Line</title><link href="http://localhost:4000/blog/2019/09/19/curriculum-to-command-line.html" rel="alternate" type="text/html" title="Curriculum to Command Line" /><published>2019-09-19T00:00:00-05:00</published><updated>2019-09-19T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/09/19/curriculum-to-command-line</id><content type="html" xml:base="http://localhost:4000/blog/2019/09/19/curriculum-to-command-line.html">&lt;p&gt;
+&lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Welcome to Part III of a three-part series on Impostor Syndrome: Slaying the Beast. In this section, we will go over ways to fight off Impostor Syndrome. Here are the sections for the full series: Part I: Origin Story Part II: Warning Signs Part III: Fight Scene</summary></entry><entry><title type="html">Curriculum to Command Line</title><link href="http://localhost:4000/blog/2019/09/19/curriculum-to-command-line.html" rel="alternate" type="text/html" title="Curriculum to Command Line" /><published>2019-09-19T00:00:00-05:00</published><updated>2019-09-19T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/09/19/curriculum-to-command-line</id><content type="html" xml:base="http://localhost:4000/blog/2019/09/19/curriculum-to-command-line.html">&lt;p&gt;
   &lt;em&gt;This article is adapted from a talk I gave at &lt;a target=&quot;blank&quot; href=&quot;https://www.javascriptandfriends.com/&quot;&gt;JavaScript &amp; Friends&lt;/a&gt; and &lt;a target=&quot;blank&quot; href=&quot;https://www.musiccitytech.com/&quot;&gt;Music City Code&lt;/a&gt;. You can find the slides from that talk &lt;a target=&quot;blank&quot; href=&quot;https://speakerdeck.com/tinezekis/curriculum-to-command-line-why-teachers-make-great-coders-and-what-your-team-can-learn-from-them&quot;&gt;here&lt;/a&gt;. You can also read this article on &lt;a target=&quot;blank&quot; href=&quot;https://medium.com/@tinezekis/curriculum-to-command-line-why-teachers-make-great-coders-and-what-your-team-can-learn-from-them-2079c533a01a&quot;&gt;Medium&lt;/a&gt;.&lt;/em&gt;
 &lt;/p&gt;
 
@@ -880,55 +1026,4 @@
 &lt;h4&gt;Resources:&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.reducingstereotypethreat.org/reduce.html#encouragingself&quot;&gt;ReducingStereotypeThreat.org: What Can Be Done to Reduce Stereotype Threat? - Encouraging Self-Affirmation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Assignment: Cultural Blog | Values</summary></entry><entry><title type="html">Lost in Translation?</title><link href="http://localhost:4000/blog/technical/2015/05/24/t7-JavaScript.html" rel="alternate" type="text/html" title="Lost in Translation?" /><published>2015-05-24T00:00:00-05:00</published><updated>2015-05-24T00:00:00-05:00</updated><id>http://localhost:4000/blog/technical/2015/05/24/t7-JavaScript</id><content type="html" xml:base="http://localhost:4000/blog/technical/2015/05/24/t7-JavaScript.html">&lt;h4&gt;Assignment: Technical Blog | JavaScript&lt;/h4&gt;
-
-&lt;p&gt;
-  This week at Dev Bootcamp, we started learning a new language: JavaScript. There are many similarities between JavaScript and Ruby, as well as many important differences. As with the study of any two languages, it is important to understand which pieces can be translated literally, and which pieces run the risk of getting lost in translation. In order to explore some of these further, we will focus on just one concept in each language. In this post, we will discuss Ruby Hashes and JavaScript Objects.
-&lt;/p&gt;
-&lt;h3&gt;Ruby Hashes&lt;/h3&gt;
-&lt;p&gt;
-  In Ruby, a hash is a data-storage class. It is similar to an array in that it can store multiple items. However, unlike in the array, the order of these items is unimportant. This means that we do not reference items within a hash by their ordinal location. Instead, all items in a hash are arranged into key/value pairs. Each key points to a corresponding value. For example, if I wanted to keep track of abbreviations for elements of the periodic table, I could create a hash. Each element would be a key with its corresponding abbreviation as the value:
-  &lt;pre&gt;&lt;code&gt;periodic_abbrevs = {&quot;Hydrogen&quot; =&gt; &quot;H&quot;, &quot;Oxygen&quot; =&gt; &quot;O&quot;, &quot;Carbon&quot; =&gt; &quot;C&quot;, &quot;Zinc&quot; =&gt; &quot;Zn&quot;,&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;code&gt;  &quot;Gold&quot; =&gt; &quot;Au&quot;, &quot;Copper&quot; =&gt; &quot;Cu&quot;, &quot;Magnesium&quot; =&gt; &quot;Mg&quot;}&lt;/code&gt;&lt;/pre&gt;
-  For all you science buffs out there, you have probably noticed that the elements in this hash are not presented in order according to the periodic table. This does not matter, as for our purposes, we will only need to access an abbreviation (value) by it's element name (key), not by where it falls on the table of elements. If we want to print to the console the abbreviation for Gold, we can do so thusly:
-  &lt;pre&gt;&lt;code&gt;puts periodic_abbrevs[&quot;Gold&quot;]&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;samp&gt;=&gt; Au&lt;/samp&gt;&lt;/pre&gt;
-  You have probably also noticed that our hash is not exhaustive. There are still many more elements in the periodic table. Fortunately, we can easily add or remove key/value pairs to a hash. If we want our hash to include phosphorus, for instance, here's how we add it:
-  &lt;pre&gt;&lt;code&gt;periodic_abbrevs[&quot;Phosphorus&quot;] = &quot;P&quot;&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;samp&gt;=&gt; {&quot;Hydrogen&quot; =&gt; &quot;H&quot;, &quot;Oxygen&quot; =&gt; &quot;O&quot;, &quot;Carbon&quot; =&gt; &quot;C&quot;, &quot;Zinc&quot; =&gt; &quot;Zn&quot;, &quot;Gold&quot; =&gt; &quot;Au&quot;,&lt;/samp&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;samp&gt;     &quot;Copper&quot; =&gt; &quot;Cu&quot;, &quot;Magnesium&quot; =&gt; &quot;Mg&quot;, &quot;Phosphorus&quot; =&gt; &quot;P&quot;}&lt;/samp&gt;&lt;/pre&gt;
-&lt;/p&gt;
-&lt;p&gt;
-  A hash is like an algebraic function in that multiple keys may point to equivalent values, but a single key cannot point to more than one value. In other words, each input must have only one output. To give another example, let's say that we are keeping track of the ages of children at a daycare. The following hash would work just fine:
-  &lt;pre&gt;&lt;code&gt;ages = {sarah: 3, johnny: 4, mary: 4, andy: 3, henry: 4, sally: 3}&lt;/code&gt;&lt;/pre&gt;
-  It is perfectly alright for several of these children to be the same age; their name keys can point to equivalent values. However, we cannot have one name point to two different ages:
-  &lt;pre&gt;&lt;code&gt;ages = {sarah: 3, sarah: 4, johnny: 4 ... etc.} &lt;/code&gt;&lt;samp&gt;# unacceptable hash&lt;/samp&gt;&lt;/pre&gt;
-  If there are really two Sarahs at this daycare, then they must have different names for their keys. Perhaps &lt;code&gt;sarah_jones&lt;/code&gt; and &lt;code&gt;sarah_smith&lt;/code&gt;. Otherwise, how can the program know which value to access for that key? Please note that if you add an existing key to a hash, it will overwrite the existing key/value pair, replacing the previous value with the new one.
-&lt;/p&gt;
-&lt;h3&gt;JavaScript Objects&lt;/h3&gt;
-&lt;p&gt;
-  In JavaScript, an object is a wrapped collection of properties. Perhaps we have several musicians which each have a name, instrument, and genre. We would store this information into various &lt;code&gt;Musician&lt;/code&gt; objects thusly:
-  &lt;pre&gt;&lt;code&gt;function Musician(name, instrument, genre) {&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;code&gt;  this.name = name;&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;code&gt;  this.instrument = instrument;&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;code&gt;  this.genre = genre;&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;code&gt;}&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;code&gt;var yoYoMa = new Musician(&quot;Yo-Yo Ma&quot;, &quot;cello&quot;, &quot;Classical&quot;)&lt;/code&gt;&lt;/pre&gt;
-  Later, if I need to access the instrument Yo-Yo Ma plays, I can simply call for his instrument property:
-  &lt;pre&gt;&lt;code&gt;yoYoMa.instrument;&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;samp&gt;=&gt; cello&lt;/samp&gt;&lt;/pre&gt;
-  Additionally, I can add and remove properties from an object. For instance, we can add a famous Yo-Yo Ma quote to the &lt;code&gt;yoYoMa&lt;/code&gt; object thusly:
-  &lt;pre&gt;&lt;code&gt;yoYoMa.quote = &quot;I think one of the great things about being a musician&lt;/code&gt;&lt;/pre&gt;
-  &lt;pre&gt;&lt;code&gt;  is that you never stop learning.&quot;&lt;/code&gt;&lt;/pre&gt;
-&lt;/p&gt;
-&lt;h3&gt;Key Points for Translation&lt;/h3&gt;
-&lt;p&gt;
-  As you have likely noticed, hashes in Ruby and objects in JavaScript have many similarities. The properties of an object have names and associated values, much like the key/value pairs of a hash. We can access these values at any time by referencing their names or keys. We can also add and remove properties or key/value pairs. So, if I were translating a hash from Ruby into JavaScript, I would likely use an object. But be careful, because these two things are not identical!
-&lt;/p&gt;
-&lt;p&gt;
-  First, as we have seen from our examples, we do not construct these things in the same way in the two languages. The syntax is quite different. Additionally, Ruby and JavaScript have multiple ways to create and build onto hashes and objects, respectively. Trying to use the syntax of one in the other language would create several errors.
-&lt;/p&gt;
-&lt;p&gt;
-  Another word of caution has to do with the English language. In Ruby, there are also such things as objects, and they can be quite different from hashes. In fact, a hash is just one type of &lt;i&gt;infinitely many&lt;/i&gt; objects in Ruby, since we can invent our own classes to create new types of objects all the time. So, while it is important to note these similarities for ease of understanding, we must not be too quick to equate them.
-&lt;/p&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Assignment: Technical Blog | JavaScript</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>'Tine Zekis</name></author><summary type="html">Assignment: Cultural Blog | Values</summary></entry></feed>
