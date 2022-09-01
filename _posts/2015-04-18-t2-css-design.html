@@ -22,6 +22,7 @@ background: /imgs/margin-border-padding-diagram.png
   From the inside out, we go from the object itself out to the padding, then the border, and finally the margin. As state previously, an <b>object</b> has its own dimensions (width x height). The <b>padding</b> is the space between the object and its border. The <b>border</b>, which may be made visible by the web designer, surrounds the object. The <b>margin</b> is the space between the border and other objects on the site. Please see the diagram below for further clarification.
 </p>
 <img width="75%" src="/imgs/margin-border-padding-diagram.png" alt="margin-border-padding-example"/>
+<br><br>
 <h3>More on Margins</h3>
 <p>
   As discussed above, a margin is the space between an object's border and other objects on the site. We define the length of this space using CSS by typing: <pre><code>margin: [length];</code></pre> Here, we can type our length using several units of measurements. For now, let's stick with pixels (px). One pixel is a dot on your screen. This is what it would look like if we set objects to have 40-pixel margins (<code>margin: 40px</code>):
@@ -59,7 +60,7 @@ background: /imgs/margin-border-padding-diagram.png
 <div class="margin-example-2">
   Together
 </div>
-
+<br><br>
 <h4>Unequal Margins</h4>
 <p>
   We can also choose different margins for the different sides of an object. Each side can be set using the commands <code>margin-top</code>, <code>margin-right</code>, <code>margin-bottom</code>, or <code>margin-left</code>, respectively. Or, we can indicate all four at once by typing <code>margin</code> and listing each margin length in the order listed above (starting with the top and moving clockwise around the object). For example, the code <code>margin: 4px 3px 2px 1px;</code> would produce a top margin of 4 pixels, a right margin of 3 pixels, a bottom margin of 2 pixels, and a left margin of 1 pixel. Below is an example of an object with unequal values for its margins on various sides:
@@ -69,6 +70,7 @@ background: /imgs/margin-border-padding-diagram.png
   are much larger than my<br>
   bottom or right ones.
 </div>
+<br><br>
 <h3>Borders for Beginners</h3>
 <p>
   A border is exactly what it sounds like: it borders the object. We can define several attributes of a border such as its weight, style, and color. We can also determine whether or not it will be visible (the style "none" would render the border invisible). Our code for creating a border around an object looks like this: <pre><code>border: [weight] [style] [color];</code></pre>For example, here is what you would get if you entered <code>border: 15px solid black;</code> and <code>border: 2px dashed red;</code> for two objects, respectively:
@@ -76,9 +78,11 @@ background: /imgs/margin-border-padding-diagram.png
 <div id="border-example-1">
   I have a thick, solid, black border.
 </div>
+<br><br>
 <div id="border-example-2">
   My border is thin, dashed, and red.
 </div>
+<br><br>
 <h3>Prepping Your Padding</h3>
 <p>
   Padding, like the margin, represents empty space. However, this space is between the object and its border. We set the padding using: <pre><code>padding: [length];</code></pre> Here are some examples of the effect padding can have on an object such as a text box:
@@ -89,16 +93,19 @@ background: /imgs/margin-border-padding-diagram.png
   border and me.<br>
   <b>I feel cramped!</b>
 </div>
+<br><br>
 <div id="padding-example-2">
   My border is<br>
   too far away.<br>
   <i>I feel lonely!</i>
 </div>
+<br><br>
 <div id="padding-example-3">
   My padding is<br>
   just right. <i><b>I feel<br>
   like Goldilocks!</b></i>
 </div>
+<br><br>
 <h4>Unequal Borders and Padding</h4>
 <p>
   Just as with margins, we can apply our borders and padding unequally on different sides:
